@@ -5,7 +5,7 @@ import os.path
 
 #1 file with expression profile
 #2 file with phenotypes
-#3 file wirth signle homologs
+#3 file with single homologs
 #4 fiel with communities
 #5 file with SNP density
 #6 file with id map

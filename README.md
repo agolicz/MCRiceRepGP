@@ -19,7 +19,8 @@ IMPORTANT:
 1. To invoke non-coding mode, IDs of non-coding genes have to start with ‘NC_’.
 2. Please ensure that the genes IDs are consistent across all the files.
 3. Make sure gene IDs are a single string with letters and numbers only [A-Z,a-z,0-9]. Especially no semicolons, commas and spaces in gene names. 
-   Not doing so may/will result in failure/unpredictable behaviour/errors.
+   
+Not doing so may/will result in failure/unpredictable behaviour/errors.
 
 Information about input file format can be found in input.files.info.txt
 

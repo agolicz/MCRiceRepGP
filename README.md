@@ -11,12 +11,12 @@ Dependencies:
 * DescTools, tested on v0.99.22
 * mltools, tested on v0.3.3
 
-To perform a test run, download the files from https://osf.io/78axs/ (MCGPlannotator.rice.files.08012018.tgz). Place the files and scrips in a single directory and run ‘bash runMCGPlannotator.sh’
+To perform a test run, download the files from https://osf.io/78axs/ (MCGPlannotator.rice.files.08012018.tgz). Place the files and scrips in a single directory and run â€˜bash runMCGPlannotator.shâ€™
 Default setting can be changed by modifying values within the SETTINGS section of runMCGPlannotator.sh
 Alternatively, you may want to try the web application: http://mcgplannotator.com/rice
 
 IMPORTANT: 
-1. To invoke non-coding mode, ids of non-coding genes have to start with ‘NC_’.
+1. To invoke non-coding mode, IDs of non-coding genes have to start with â€˜NC_â€™.
 2. Please ensure that the genes IDs are consistent across all the files.
 3. Make sure gene IDs are a single string with letters and numbers only [A-Z,a-z,0-9]. Especially no semicolons, commas and spaces in gene names. 
    Not doing so may/will result in failure/unpredictable behaviour/errors.

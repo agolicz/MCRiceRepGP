@@ -139,7 +139,6 @@ for l in open(sys.argv[6]):
         of_d[g1]=set()
     of_d[g1].add(g2)
 
-#expressioin type, expression  value, mutant, hom, hub, rep hub, snp den
 for x in sorted(list(g_d.keys())):
     et=g_d[x][0]
     ev=g_d[x][1]
@@ -154,6 +153,4 @@ for x in sorted(list(g_d.keys())):
         s=et*(pvals_cod[0]*mp+pvals_cod[1]*hop+pvals_cod[2]*hup+pvals_cod[3]*rhubp+pvals_cod[4]*lowd+pvals_cod[5]*ev)
     vals=[str(et),str(round(ev,2)),str(mp),str(hop),str(hup),str(rhubp),str(lowd)]
     ttype=mct_d[x]
-    #if(ttype.startswith("SP") or ttype.startswith("EC") or ttype.startswith("VE")):
-    #ttype=ttype[0:2]
     print x +"\t"+",".join(vals)+"\t"+str(s)+"\t"+str(",".join(sorted(list(of_d[x]))))+"\t"+ttype

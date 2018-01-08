@@ -1,0 +1,4 @@
+PI.scores.*.top.tsv - Genes used as a positive training dataset
+PI.scores.*.non.tsv - Genes used as a negative training dataset
+prediction.results.tsv - Final prediction results
+bayes.*.classifier.model - The classifer built

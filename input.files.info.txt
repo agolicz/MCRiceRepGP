@@ -1,0 +1,11 @@
+File required to run MCGPlannotator. Sample files can be obtained from: https://osf.io/78axs/
+
+1. File with expression values, provided as FPKM or TPM or similar, the values need to be log transformed and no negative values are allowed. It is recommended to used log1p().Tab separated, first column gene IDs, followed by one column per sample. Includes header with column names. Sample file: logFPKM.values.
+2. File with classification of all the samples as reproductive ("rep") or vegetative ("veg"). Two tab separated columns, first sample, second classification. No header. Sample file: expression.classify.
+3. File with phenotype information. The phenotype information needs to conform to a specific format. The file is tab separated with the following columns: 1. gene ID, 2. number of mutant lines, 3. comma separated list of line names, 4. comma separated list of most common phenotype, 5. comma separated list of the most common phenotype count, 6. comma separated list of most common phenotype type, 7. comma separated list of the most common phenotype type count, 8. alternative ID, if does not exist repeat column 1. No header #This file is NOT NECESSARY. If does not exist please supply name of non-existent file, for example: “null.phenotypes”. Sample file: pheno.info
+4. File with homology information. Tab separated. Two columns: 1. Gene id, 2. ";" separated list of GO term descriptions. No header. If no annotation second column should have NA. Sample file: gene.go.annot.
+5. File with community information. Tab separated. Three columns: 1. Community id, 2. "," separated list of genes in community, 3. ";" separated list of GO term descriptions. No header. If no annotation third column should have NA. Sample file: comm.go.annot.
+6. File with gene sequence diversity. Tab separated. Two columns: 1. Gene id, 2. SNP density, SNP/Kbp. No header. Sample file: SNPs.density.
+7. File with key words to be included. Key words of phrases (single space separated). One per line. No header. Sample file: key.positive.
+8. File with key words to be excluded. Key words of phrases (single space separated). One per line. No header. Sample file: key.negative
+9. If you have second annotation, ID mapping can be provided, in two tab separated column format, if no ID mapping repeat the same id twice. No header. Sample file: gene.id.map.

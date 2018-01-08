@@ -19,8 +19,8 @@
 
 #These values need to be provided in order to run the pipeline.
 #Sample files can be downloaded from: https://osf.io/78axs/.
-#Sample files can be repalced with any files conformign to the format.
-#If you haave any probelms please email agnieszka.golicz#gmail.com with the error message.
+#Sample files can be repalced with any files conforming to the format.
+#If you have any probelms please email agnieszka.golicz@unimelb.edu.au with the error message.
 #I will do my best to help.
 
 #File with expression values, provided as FPKM or TPM or similar, 

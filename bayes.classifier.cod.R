@@ -8,62 +8,86 @@ set.seed(2)
 
 args <- commandArgs(trailingOnly = TRUE)
 outd <- args[1]
-trsize <- args[2]
-tesize <- args[3]
 outputFile <-file(paste(outd,"error.txt",sep="/"))
 
 tryCatch({
-t<-read.csv(paste(outd,"PI.scores.cod.both.bayes.na.yn",sep="/"),sep="\t", header=F, row.names=1)
-names(t)<-c("ET","EV","P","H","CP","CF","D","CLASS")
-id<-sample(2,nrow(t),prob=c(trsize,tesize),replace=T)
-emptrain<-t[id==1,]
-emptest<-t[id==2,]
-emp_nb<-naiveBayes(CLASS ~ ET + EV + P + H + CP + D, data=emptrain)
+  d2<-read.csv(paste(outd,"PI.scores.cod.both.bayes.na.yn",sep="/"),sep="\t", header=F, row.names=1)
+  names(d2)<-c("ET","EV","P","H","CP","CF","D","CLASS")
+  f<-sample(5,nrow(d2),prob=c(0.2,0.2,0.2,0.2,0.2),replace=T)
+  d2$fold <-f
+  nb.sen <- c()
+  nb.spe <- c()
+  nb.acc <- c()
+  nb.auc <- c()
+  nb.mcc <- c()
+  pdfc<-data.frame()
+    for (i in 1:5) {
+      d2.1=d2[d2$fold != i,]
+      d2.1$fold<-NULL
+      d2.2=d2[d2$fold == i,]
+      d2.2$fold<-NULL
+      m.nbi <- naiveBayes(CLASS ~ ET + EV + H + P + CP + D, data=d2.1)
+      predictions <- predict(m.nbi, d2.2)
+      predictions2 <- predict(m.nbi, d2.2,type='raw')
+      cm<-confusionMatrix(table(predictions,d2.2$CLASS))
+      nb.sen <- append(cm$byClass['Sensitivity'], nb.sen)
+      nb.spe <- append(cm$byClass['Specificity'], nb.spe)
+      nb.acc <- append(cm$overall['Accuracy'], nb.acc)
+      pa<-predictions
+      pa<-gsub("pos","TRUE", pa)
+      pa<-gsub("non","FALSE", pa)
+      ta<-d2.2$CLASS
+      ta<-gsub("pos","TRUE", ta)
+      ta<-gsub("non","FALSE", ta)
+      mccv<-mcc(as.logical(pa),as.logical(ta))
+      nb.mcc <- append(mccv, nb.mcc)
+      score <- predictions2[, c("pos")]
+      actual_class <- d2.2$CLASS
+      pred <- prediction(score, actual_class)
+      perf <- performance(pred, "tpr", "fpr")
+      roc <- data.frame(fpr=unlist(perf@x.values), tpr=unlist(perf@y.values))
+      nb.auc <- append(AUC(roc$fpr, roc$tpr),nb.auc)
+      roc$fold <- paste("Fold",as.character(i),sep=" ")
+      roc$method <- "Coding"
+      pdfc <- rbind(pdfc,roc)
+    }
+  sim.res <- data.frame()
+  tdf<-data.frame(value=nb.sen,measure=rep("Sensitivity", length(nb.sen)), method="Naive Bayes")
+  sim.res<-rbind(tdf,sim.res)
+  tdf<-data.frame(value=nb.spe,measure=rep("Specificity", length(nb.spe)), method="Naive Bayes")
+  sim.res<-rbind(tdf,sim.res)
+  tdf<-data.frame(value=nb.acc,measure=rep("Accuracy", length(nb.acc)), method="Naive Bayes")
+  sim.res<-rbind(tdf,sim.res)
+  tdf<-data.frame(value=nb.auc,measure=rep("AUC", length(nb.auc)), method="Naive Bayes")
+  sim.res<-rbind(tdf,sim.res)
+  tdf<-data.frame(value=nb.mcc,measure=rep("MCC", length(nb.mcc)), method="Naive Bayes")
+  sim.res<-rbind(tdf,sim.res)
 
-t2<-read.csv(paste(outd,"PI.scores.forBayes.na.yn.cod",sep="/"),sep="\t",header=F, row.names=1)
-names(t2)<-c("ET","EV","P","H","CP","CF","D")
-res<-predict(emp_nb,t2)
-t2$RES<-res
-write.table(t2,file=paste(outd,"bayes.cod.tsv",sep="/"),sep="\t",row.names=T,quote=F)
+  save(sim.res, file=paste(outd,"classifer.stats",sep="/"))
+  save(pdfc, file=paste(outd,"classifer.roc",sep="/")) 
+  
+  tdf.sn <- subset(sim.res, measure == "Sensitivity")
+  tdf.sp <- subset(sim.res, measure == "Specificity")
+  tdf.acc <- subset(sim.res, measure == "Accuracy")
+  tdf.auc <- subset(sim.res, measure == "AUC")
+  tdf.mcc <- subset(sim.res, measure == "MCC")
+  cat("Sensitivity: ", mean(tdf.sn$value),"(",sd(tdf.sn$value),")","\n",sep="")
+  cat("Specificity: ", mean(tdf.sp$value),"(",sd(tdf.sp$value),")","\n",sep="")
+  cat("Accuracy: ", mean(tdf.acc$value),"(",sd(tdf.acc$value),")","\n",sep="")
+  cat("AUC: ", mean(tdf.auc$value),"(",sd(tdf.auc$value),")","\n",sep="")
+  cat("MCC: ", mean(tdf.mcc$value),"(",sd(tdf.mcc$value),")","\n",sep="")
 
-save(emp_nb,file=paste(outd,"bayes.cod.classifier.model",sep="/"))
-predictions = predict(emp_nb, emptest)
-predictions2 = predict(emp_nb, emptest,type='raw')
-cm<-confusionMatrix(table(predictions,emptest$CLASS), positive="pos")
-nb.sen = cm$byClass['Sensitivity']
-nb.spe = cm$byClass['Specificity']
-nb.acc = cm$overall['Accuracy']
-pa<-predictions
-pa<-gsub("pos","TRUE", pa)
-pa<-gsub("non","FALSE", pa)
-ta<-emptest$CLASS
-ta<-gsub("pos","TRUE", ta)
-ta<-gsub("non","FALSE", ta)
-nb.mcc<-mcc(as.logical(pa),as.logical(ta))
-score <- predictions2[, c("pos")]
-actual_class <- emptest$CLASS
-pred <- prediction(score, actual_class)
-perf <- performance(pred, "tpr", "fpr")
-roc <- data.frame(fpr=unlist(perf@x.values), tpr=unlist(perf@y.values))
-nb.auc = AUC(roc$fpr, roc$tpr)
-roc$method <- "Naive Bayes"
-save(cm, file=paste(outd,"confusion.cod.matrix",sep="/"))
+  d2$fold <- NULL
+  m.nbif = naiveBayes(CLASS ~ ET + EV + H + P + CP + D, data=d2)
+  t2<-read.csv(paste(outd,"PI.scores.forBayes.na.yn.cod",sep="/"),sep="\t",header=F, row.names=1)
+  names(t2)<-c("ET","EV","P","H","CP","CF","D")
+  res<-predict(m.nbif,t2)
+  t2$RES<-res
+  write.table(t2,file=paste(outd,"bayes.cod.tsv",sep="/"),sep="\t",row.names=T,quote=F)
 
-outputFile2 <-file(paste(outd,"auc.txt",sep="/"))
-writeLines(as.character(nb.auc), outputFile2)
-outputFile3 <-file(paste(outd,"mcc.txt",sep="/"))
-writeLines(as.character(nb.mcc), outputFile3)
-close(outputFile2)
-close(outputFile3)
-
-print(cm)
-cat(paste("AUC: ", nb.auc, "\n", sep=""))
-cat(paste("MCC: ", nb.mcc, "\n",sep=""))
 writeLines(as.character("SUCCESS"), outputFile)
 
 }, error = function(e) {
 writeLines(as.character(e), outputFile)
 })
 close(outputFile)
-
-

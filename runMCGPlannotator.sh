@@ -19,8 +19,8 @@
 
 #These values need to be provided in order to run the pipeline.
 #Sample files can be downloaded from: https://osf.io/78axs/.
-#Sample files can be repalced with any files conforming to the format.
-#If you have any probelms please email agnieszka.golicz@unimelb.edu.au with the error message.
+#Sample files can be repalced with any files conformign to the format.
+#If you haave any probelms please email agnieszka.golicz#gmail.com with the error message.
 #I will do my best to help.
 
 #File with expression values, provided as FPKM or TPM or similar, 
@@ -96,12 +96,6 @@ nset=500
 #Please be midfull of the total number of genes, pset and nset chosen.
 pcctoff=5
 
-#Testing size
-tes=30
-
-#Training size
-trs=70
-
 #Output directory
 output="MCGPlannotator_out"
 
@@ -127,8 +121,6 @@ echo "Gene type mode: $mode"
 echo "Positive training set size: $pset"
 echo "Negative trainign set size: $nset"
 echo "Cut-off between positive ad negative training sets: $pcctoff"
-echo "Perenatage of dataset used for training: $trs"
-echo "Perenatage of dataset used for testing: $tes"
 
 
 ###BEGIN EXECUTION
@@ -196,7 +188,7 @@ then
 		rm $outdir/PI.scores.cod.both.bayes.na $outdir/PI.scores.cod.both.bayes.na.na $outdir/PI.scores.cod.both.bayes.na.na.na
 
 		echo "Running classifer with all features... If you want to exclude some features please modify bayes.classifier.cod.R..."
-        	Rscript --vanilla bayes.classifier.cod.R $outdir $trs $tes
+        	Rscript --vanilla bayes.classifier.cod.R $outdir
 		let COUNTER-=1
 		PASS=`cat $outdir/error.txt`
 		if [ "$COUNTER" -eq "0" ]
@@ -244,7 +236,7 @@ then
 		rm $outdir/PI.scores.nc.both.bayes.na $outdir/PI.scores.nc.both.bayes.na.na $outdir/PI.scores.nc.both.bayes.na.na.na
         
 		echo "Running classifer with all features... If you want to exclude some features please modify bayes.classifier.nc.R..."
-        	Rscript --vanilla bayes.classifier.nc.R $outdir $trs $tes
+        	Rscript --vanilla bayes.classifier.nc.R $outdir
                 let COUNTER-=1
 		PASS=`cat $outdir/error.txt`
 		if [ "$COUNTER" -eq "0" ]

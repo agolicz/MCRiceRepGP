@@ -37,8 +37,8 @@ ex_classify="expression.classify"
 
 #File with phenotype information. The phenotype information needs to 
 #conform to a specific format. The file is tab separated with the following columns: 
-#1. gene ID, 2. number of mutant lines, #3. comma separated list of line names,
-#4. comma separated list of most common phenotype, #5. comma separated list of the 
+#1. gene ID, 2. number of mutant lines, 3. comma separated list of line names,
+#4. comma separated list of most common phenotype, 5. comma separated list of the 
 #most common phenotype count, #6. comma separated list of most common phenotype type,
 #7. comma separated list of the most common phenotype type count, 
 #8. alternative ID, if does not exist repeat column 1. 
@@ -84,7 +84,7 @@ param_vals_noncoding="0.6,0.4,0.3,0.2,0.1"
 #Choose if you want to run in coding or non-coding mode: either "coding" or "non-coding". 
 #Non-coding genes have to start with prefix "NC_".
 #If you want results for both, you will need to run the script twice.
-mode="coding"
+mode="non-coding"
 
 #Size of the positive training set. Please be mindful of the total number of genes.
 pset=200
@@ -96,6 +96,9 @@ nset=500
 #Please be midfull of the total number of genes, pset and nset chosen.
 pcctoff=5
 
+#Featues to be included in classifer
+feats="ET,EV,P,H,CP,CF,D"
+
 #Output directory
 output="MCGPlannotator_out"
 
@@ -105,7 +108,7 @@ output="MCGPlannotator_out"
 
 echo "Expression data file: $fpkm"
 echo "Sample classification file: $ex_classify"
-echo "Phenopypic information file: $pheno"
+echo "Phenotypic information file: $pheno"
 echo "Gene homology information file: $hom"
 echo "Gene community information file: $comm"
 echo "Sequence diversity file: $div"
@@ -115,12 +118,13 @@ echo "Negative keywords file: $key_no"
 cat $key_no
 echo "Id1 to Id2 map file: $id_map"
 echo "Expression/phenotype type: $ptype"
-echo "PI parameter values for codign genes: $param_vals_coding"
-echo "PI parameter values for non-codign genes: $param_vals_noncoding"
+echo "PI parameter values for coding genes: $param_vals_coding"
+echo "PI parameter values for non-coding genes: $param_vals_noncoding"
 echo "Gene type mode: $mode"
 echo "Positive training set size: $pset"
-echo "Negative trainign set size: $nset"
-echo "Cut-off between positive ad negative training sets: $pcctoff"
+echo "Negative training set size: $nset"
+echo "Cut-off between positive and negative training sets: $pcctoff"
+echo "Features: $feats"
 
 
 ###BEGIN EXECUTION
@@ -187,8 +191,10 @@ then
 		python replace_01.py $outdir/PI.scores.cod.both.bayes.na.na.na > $outdir/PI.scores.cod.both.bayes.na.yn
 		rm $outdir/PI.scores.cod.both.bayes.na $outdir/PI.scores.cod.both.bayes.na.na $outdir/PI.scores.cod.both.bayes.na.na.na
 
-		echo "Running classifer with all features... If you want to exclude some features please modify bayes.classifier.cod.R..."
-        	Rscript --vanilla bayes.classifier.cod.R $outdir
+		echo "Running classifer with all features... $feats"
+        	Rscript --vanilla bayes.classifier.cod.R $outdir $feats
+		Rscript --vanilla bayes.classifier.cod.scram.R $outdir $feats
+
 		let COUNTER-=1
 		PASS=`cat $outdir/error.txt`
 		if [ "$COUNTER" -eq "0" ]
@@ -235,8 +241,10 @@ then
         	python replace_01.py $outdir/PI.scores.nc.both.bayes.na.na.na > $outdir/PI.scores.nc.both.bayes.na.yn
 		rm $outdir/PI.scores.nc.both.bayes.na $outdir/PI.scores.nc.both.bayes.na.na $outdir/PI.scores.nc.both.bayes.na.na.na
         
-		echo "Running classifer with all features... If you want to exclude some features please modify bayes.classifier.nc.R..."
-        	Rscript --vanilla bayes.classifier.nc.R $outdir
+		echo "Running classifer with all features... $feats"
+        	Rscript --vanilla bayes.classifier.nc.R $outdir $feats
+		Rscript --vanilla bayes.classifier.nc.scram.R $outdir $feats
+
                 let COUNTER-=1
 		PASS=`cat $outdir/error.txt`
 		if [ "$COUNTER" -eq "0" ]

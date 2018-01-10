@@ -8,11 +8,15 @@ set.seed(2)
 
 args <- commandArgs(trailingOnly = TRUE)
 outd <- args[1]
+feats <- args[2]
 outputFile <-file(paste(outd,"error.txt",sep="/"))
 
 tryCatch({
   d2<-read.csv(paste(outd,"PI.scores.nc.both.bayes.na.yn",sep="/"),sep="\t", header=F, row.names=1)
   names(d2)<-c("ET","EV","P","H","CP","CF","D","CLASS")
+  pv<-unlist(strsplit(feats,","))
+  fv<-c("CLASS",pv)
+  d2<-subset(d2, select=fv)
   f<-sample(5,nrow(d2),prob=c(0.2,0.2,0.2,0.2,0.2),replace=T)
   d2$fold <-f
   nb.sen <- c()
@@ -26,7 +30,7 @@ tryCatch({
       d2.1$fold<-NULL
       d2.2=d2[d2$fold == i,]
       d2.2$fold<-NULL
-      m.nbi <- naiveBayes(CLASS ~ ET + EV + P + CP + CF + D, data=d2.1)
+      m.nbi <- naiveBayes(CLASS ~ ., data=d2.1)
       predictions <- predict(m.nbi, d2.2)
       predictions2 <- predict(m.nbi, d2.2,type='raw')
       cm<-confusionMatrix(table(predictions,d2.2$CLASS))
@@ -48,7 +52,7 @@ tryCatch({
       roc <- data.frame(fpr=unlist(perf@x.values), tpr=unlist(perf@y.values))
       nb.auc <- append(AUC(roc$fpr, roc$tpr),nb.auc)
       roc$fold <- paste("Fold",as.character(i),sep=" ")
-      roc$method <- "Non-coding"
+      roc$method <- "Coding"
       pdfc <- rbind(pdfc,roc)
     }
   sim.res <- data.frame()
@@ -78,10 +82,13 @@ tryCatch({
   cat("MCC: ", mean(tdf.mcc$value),"(",sd(tdf.mcc$value),")","\n",sep="")
 
   d2$fold <- NULL
-  m.nbif = naiveBayes(CLASS ~ ET + EV + P + CP + CF + D, data=d2)
+  m.nbif = naiveBayes(CLASS ~ ., data=d2)
+  save(m.nbif,file=paste(outd,"bayes.nc.classifier.model",sep="/"))
   t2<-read.csv(paste(outd,"PI.scores.forBayes.na.yn.nc",sep="/"),sep="\t",header=F, row.names=1)
   names(t2)<-c("ET","EV","P","H","CP","CF","D")
-  res<-predict(m.nbif,t2)
+  fv2<-setdiff(fv, "CLASS")
+  t3<-subset(t2, select=fv2)
+  res<-predict(m.nbif,t3)
   t2$RES<-res
   write.table(t2,file=paste(outd,"bayes.nc.tsv",sep="/"),sep="\t",row.names=T,quote=F)
 

@@ -9,10 +9,10 @@ set.seed(2)
 args <- commandArgs(trailingOnly = TRUE)
 outd <- args[1]
 feats <- args[2]
-outputFile <-file(paste(outd,"error.txt",sep="/"))
+outputFile <-file(paste(outd,"error.scram.txt",sep="/"))
 
 tryCatch({
-  d2<-read.csv(paste(outd,"PI.scores.cod.both.bayes.na.yn",sep="/"),sep="\t", header=F, row.names=1)
+  d2<-read.csv(paste(outd,"PI.scores.nc.both.bayes.na.yn",sep="/"),sep="\t", header=F, row.names=1)
   names(d2)<-c("ET","EV","P","H","CP","CF","D","CLASS")
   pv<-unlist(strsplit(feats,","))
   fv<-c("CLASS",pv)
@@ -30,6 +30,8 @@ tryCatch({
       d2.1$fold<-NULL
       d2.2=d2[d2$fold == i,]
       d2.2$fold<-NULL
+      rp<-sample(d2.1$CLASS)
+      d2.1$CLASS<-rp
       m.nbi <- naiveBayes(CLASS ~ ., data=d2.1)
       predictions <- predict(m.nbi, d2.2)
       predictions2 <- predict(m.nbi, d2.2,type='raw')
@@ -67,8 +69,8 @@ tryCatch({
   tdf<-data.frame(value=nb.mcc,measure=rep("MCC", length(nb.mcc)), method="Naive Bayes")
   sim.res<-rbind(tdf,sim.res)
 
-  save(sim.res, file=paste(outd,"classifer.stats",sep="/"))
-  save(pdfc, file=paste(outd,"classifer.roc",sep="/")) 
+  save(sim.res, file=paste(outd,"classifer.stats.scram",sep="/"))
+  save(pdfc, file=paste(outd,"classifer.roc.scram",sep="/")) 
   
   tdf.sn <- subset(sim.res, measure == "Sensitivity")
   tdf.sp <- subset(sim.res, measure == "Specificity")
@@ -80,17 +82,6 @@ tryCatch({
   cat("Accuracy: ", mean(tdf.acc$value),"(",sd(tdf.acc$value),")","\n",sep="")
   cat("AUC: ", mean(tdf.auc$value),"(",sd(tdf.auc$value),")","\n",sep="")
   cat("MCC: ", mean(tdf.mcc$value),"(",sd(tdf.mcc$value),")","\n",sep="")
-
-  d2$fold <- NULL
-  m.nbif = naiveBayes(CLASS ~ ., data=d2)
-  save(m.nbif,file=paste(outd,"bayes.cod.classifier.model",sep="/"))
-  t2<-read.csv(paste(outd,"PI.scores.forBayes.na.yn.cod",sep="/"),sep="\t",header=F, row.names=1)
-  names(t2)<-c("ET","EV","P","H","CP","CF","D")
-  fv2<-setdiff(fv, "CLASS")
-  t3<-subset(t2, select=fv2)
-  res<-predict(m.nbif,t3)
-  t2$RES<-res
-  write.table(t2,file=paste(outd,"bayes.cod.tsv",sep="/"),sep="\t",row.names=T,quote=F)
 
 writeLines(as.character("SUCCESS"), outputFile)
 

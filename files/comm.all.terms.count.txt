@@ -1,0 +1,2256 @@
+43	telomere maintenance
+40	lateral root formation
+39	phosphatidylcholine metabolic process
+38	jasmonic acid biosynthetic process
+37	response to desiccation
+37	sterol biosynthetic process
+36	amino acid transmembrane transport
+36	defense response signaling pathway, resi...
+36	RNA-directed DNA methylation
+35	ATP synthesis coupled proton transport
+34	isopentenyl diphosphate biosynthetic pro...
+34	leaf vascular tissue pattern formation
+32	nuclear-transcribed mRNA catabolic proce...
+32	photosynthetic electron transport in pho...
+32	trehalose biosynthetic process
+31	activation of protein kinase activity
+30	cold acclimation
+30	DNA mediated transformation
+30	sodium ion transport
+30	trichome branching
+29	brassinosteroid homeostasis
+29	DNA-templated transcription, elongation
+29	negative regulation of lateral root deve...
+29	response to chitin
+28	protein deubiquitination
+27	RNA secondary structure unwinding
+27	small GTPase mediated signal transductio...
+27	sulfate transport
+26	basipetal auxin transport
+26	brassinosteroid biosynthetic process
+26	negative regulation of flower developmen...
+26	N-terminal protein myristoylation
+26	positive regulation of defense response ...
+26	stress-activated protein kinase signalin...
+26	ubiquitin-dependent ERAD pathway
+26	very long-chain fatty acid biosynthetic ...
+25	calcium-mediated signaling
+25	positive regulation of abscisic acid-act...
+24	fatty acid beta-oxidation
+24	fatty acid elongation
+24	galactose metabolic process
+24	glucose import
+24	leaf shaping
+24	polarity specification of adaxial/abaxia...
+24	protein import into chloroplast stroma
+24	protein ubiquitination involved in ubiqu...
+24	regulation of photomorphogenesis
+23	asymmetric cell division
+23	cytoplasmic translation
+23	iron ion homeostasis
+23	jasmonic acid and ethylene-dependent sys...
+23	negative regulation of cell proliferatio...
+23	phosphatidylinositol phosphorylation
+23	protein-chromophore linkage
+23	response to absence of light
+23	response to fructose
+23	secondary shoot formation
+23	sphingolipid biosynthetic process
+23	translation
+22	cell wall macromolecule catabolic proces...
+22	defense response to bacterium, incompati...
+22	DNA topological change
+22	ethylene biosynthetic process
+22	gluconeogenesis
+22	hexose transmembrane transport
+22	hyperosmotic salinity response
+22	microtubule-based movement
+22	negative regulation of circadian rhythm
+22	negative regulation of sequence-specific...
+22	osmosensory signaling pathway
+22	pollen sperm cell differentiation
+22	pollen tube guidance
+22	positive regulation of circadian rhythm
+22	positive regulation of transcription fro...
+22	protein homooligomerization
+22	toxin catabolic process
+22	tyrosine catabolic process
+22	ubiquinone biosynthetic process
+21	base-excision repair
+21	cellular calcium ion homeostasis
+21	cellular response to hypoxia
+21	cellular water homeostasis
+21	chitin catabolic process
+21	coenzyme A metabolic process
+21	drought recovery
+21	glyoxylate cycle
+21	melatonin biosynthetic process
+21	microsporogenesis
+21	negative regulation of cell growth
+21	oxylipin biosynthetic process
+21	peptidyl-threonine phosphorylation
+21	photosystem II assembly
+21	positive regulation of seed germination
+21	regulation of chlorophyll biosynthetic p...
+21	response to ozone
+21	response to zinc ion
+21	translational termination
+21	xyloglucan biosynthetic process
+20	alkaloid biosynthetic process
+20	cortical microtubule organization
+20	defense response to fungus, incompatible...
+20	lignin catabolic process
+20	L-phenylalanine catabolic process
+20	production of siRNA involved in RNA inte...
+20	regulation of jasmonic acid mediated sig...
+20	response to arsenic-containing substance
+20	response to glucose
+20	RNA-dependent DNA biosynthetic process
+20	thylakoid membrane organization
+20	vesicle fusion
+19	cellular modified amino acid biosyntheti...
+19	cellular response to cold
+19	'de novo' IMP biosynthetic process
+19	detection of bacterium
+19	mitochondrial mRNA modification
+19	mRNA export from nucleus
+19	pectin biosynthetic process
+19	photosynthesis, light harvesting in phot...
+19	plant ovule development
+19	positive regulation of RNA polymerase II...
+19	programmed cell death involved in cell d...
+19	regulation of membrane potential
+19	respiratory burst involved in defense re...
+19	response to molecule of bacterial origin
+19	spliceosomal tri-snRNP complex assembly
+19	starch biosynthetic process
+18	ATP synthesis coupled electron transport
+18	calcium ion transmembrane transport
+18	camalexin biosynthetic process
+18	cellular response to iron ion
+18	cellulose biosynthetic process
+18	clathrin coat assembly
+18	dipeptide transport
+18	L-ascorbic acid biosynthetic process
+18	mitotic spindle organization
+18	positive regulation of flavonoid biosynt...
+18	potassium ion transmembrane transport
+18	protein import into mitochondrial matrix
+18	protein polyubiquitination
+18	protein secretion
+18	regulation of chlorophyll catabolic proc...
+18	regulation of salicylic acid mediated si...
+18	regulation of stomatal closure
+18	response to herbivore
+18	tRNA aminoacylation for protein translat...
+17	acetate metabolic process
+17	auxin homeostasis
+17	brassinosteroid mediated signaling pathw...
+17	cellular response to nitrogen starvation
+17	cellular response to sulfate starvation
+17	de-etiolation
+17	far-red light signaling pathway
+17	histone deacetylation
+17	inorganic anion transmembrane transport
+17	maintenance of DNA methylation
+17	negative regulation of abscisic acid-act...
+17	negative regulation of hydrolase activit...
+17	one-carbon metabolic process
+17	phosphate ion transport
+17	positive gravitropism
+17	positive regulation of hydrogen peroxide...
+17	primary miRNA processing
+17	protein autoubiquitination
+17	reciprocal meiotic recombination
+17	regulation of anion channel activity
+17	regulation of mitotic cell cycle
+17	response to cadmium ion
+17	response to red light
+17	ribosomal large subunit assembly
+17	wax biosynthetic process
+16	cell wall pectin biosynthetic process
+16	hydrogen peroxide biosynthetic process
+16	mitochondrial fission
+16	phosphatidylinositol dephosphorylation
+16	protein autophosphorylation
+16	protein peptidyl-prolyl isomerization
+16	protein phosphorylation
+16	protein stabilization
+16	red, far-red light phototransduction
+16	regulation of gene expression by genetic...
+16	regulation of long-day photoperiodism, f...
+16	regulation of meristem structural organi...
+16	response to cold
+16	response to mannitol
+16	short-chain fatty acid metabolic process
+16	stomatal lineage progression
+16	suberin biosynthetic process
+16	tryptophan biosynthetic process
+16	viral replication complex formation and ...
+15	chiasma assembly
+15	chloroplast RNA modification
+15	dicarboxylic acid transport
+15	ER to Golgi vesicle-mediated transport
+15	gravitropism
+15	green leaf volatile biosynthetic process
+15	intra-Golgi vesicle-mediated transport
+15	iron-sulfur cluster assembly
+15	killing of cells of other organism
+15	malate metabolic process
+15	malate transport
+15	miRNA metabolic process
+15	mitotic recombination
+15	negative regulation of cellular cataboli...
+15	negative regulation of DNA recombination
+15	negative regulation of leaf senescence
+15	negative regulation of seed germination
+15	peptidyl-serine phosphorylation
+15	positive regulation of RNA interference
+15	primary root development
+15	protein targeting to vacuole
+15	regulation of defense response to fungus
+15	regulation of intracellular pH
+15	regulation of mitotic nuclear division
+15	response to freezing
+15	response to sucrose
+15	root hair cell tip growth
+15	signal transduction by protein phosphory...
+15	starch catabolic process
+15	trehalose metabolism in response to stre...
+15	tricarboxylic acid cycle
+15	tripeptide transport
+15	zinc II ion transmembrane transport
+14	anther wall tapetum development
+14	anthocyanin-containing compound biosynth...
+14	clathrin-dependent endocytosis
+14	cutin biosynthetic process
+14	cytokinin-activated signaling pathway
+14	detection of calcium ion
+14	DNA methylation on cytosine
+14	double-strand break repair via homologou...
+14	glucosinolate metabolic process
+14	Golgi organization
+14	lead ion transport
+14	mismatch repair
+14	negative gravitropism
+14	negative regulation of long-day photoper...
+14	negative regulation of phosphate metabol...
+14	negative regulation of protein modificat...
+14	nucleosome assembly
+14	peptidyl-cysteine S-nitrosylation
+14	petal development
+14	phloem transport
+14	photosystem I assembly
+14	polar nucleus fusion
+14	positive regulation of histone H3-K9 dim...
+14	positive regulation of posttranscription...
+14	positive regulation of syringal lignin b...
+14	proline biosynthetic process
+14	protein import into nucleus
+14	protein kinase C-activating G-protein co...
+14	radial pattern formation
+14	regulation of cell shape
+14	regulation of endocytosis
+14	regulation of gene silencing by miRNA
+14	regulation of microtubule cytoskeleton o...
+14	regulation of phosphatase activity
+14	regulation of production of miRNAs invol...
+14	regulation of protein dephosphorylation
+14	response to cytokinin
+14	response to herbicide
+14	response to insect
+14	ribosomal small subunit assembly
+14	salicylic acid metabolic process
+14	strigolactone biosynthetic process
+14	sucrose biosynthetic process
+14	UDP-N-acetylglucosamine biosynthetic pro...
+14	vesicle docking involved in exocytosis
+13	auxin efflux
+13	calcium ion transport
+13	carbohydrate homeostasis
+13	cell-cell signaling
+13	cellular response to exogenous dsRNA
+13	cellulose catabolic process
+13	chloroplast RNA processing
+13	double fertilization forming a zygote an...
+13	gibberellic acid mediated signaling path...
+13	gibberellin biosynthetic process
+13	glutathione metabolic process
+13	Group II intron splicing
+13	heterochromatin maintenance
+13	manganese ion transmembrane transport
+13	mechanosensory behavior
+13	mitochondrial respiratory chain complex ...
+13	negative regulation of cysteine-type end...
+13	negative regulation of response to water...
+13	oxidative photosynthetic carbon pathway
+13	photorespiration
+13	pollen germination
+13	positive regulation of cell death
+13	positive regulation of cell proliferatio...
+13	positive regulation of chromatin binding
+13	primary shoot apical meristem specificat...
+13	protein ubiquitination
+13	regulation of ATPase activity
+13	regulation of leaf morphogenesis
+13	regulation of secondary cell wall biogen...
+13	response to blue light
+13	response to brassinosteroid
+13	response to gamma radiation
+13	response to nitrate
+13	retrograde vesicle-mediated transport, G...
+13	root hair initiation
+13	single fertilization
+13	translational initiation
+13	triglyceride biosynthetic process
+13	unsaturated fatty acid biosynthetic proc...
+13	vacuole organization
+13	water transport
+12	amyloplast organization
+12	animal organ morphogenesis
+12	arabinogalactan protein metabolic proces...
+12	ATP hydrolysis coupled proton transport
+12	auxin biosynthetic process
+12	benzoate metabolic process
+12	cellular response to boron-containing su...
+12	chlorophyll catabolic process
+12	cuticle development
+12	defense response by callose deposition i...
+12	defense response to bacterium
+12	DNA-templated transcription, termination
+12	endocytosis
+12	flavonol biosynthetic process
+12	fructose 6-phosphate metabolic process
+12	glycerol ether metabolic process
+12	heterochromatin assembly
+12	mitochondria-nucleus signaling pathway
+12	mRNA transport
+12	negative regulation of defense response
+12	negative regulation of defense response ...
+12	negative regulation of programmed cell d...
+12	organic cation transport
+12	oxidation-reduction process
+12	para-aminobenzoic acid metabolic process
+12	plant-type cell wall loosening
+12	positive regulation of flower developmen...
+12	positive regulation of translation
+12	positive regulation of vacuole organizat...
+12	potassium ion import
+12	production of miRNAs involved in gene si...
+12	production of ta-siRNAs involved in RNA ...
+12	protein N-linked glycosylation
+12	reductive pentose-phosphate cycle
+12	regulation of anthocyanin biosynthetic p...
+12	regulation of metal ion transport
+12	regulation of root meristem growth
+12	regulation of shoot apical meristem deve...
+12	regulation of timing of transition from ...
+12	response to cyclopentenone
+12	response to high light intensity
+12	response to karrikin
+12	response to strigolactone
+12	root hair elongation
+12	seed maturation
+12	sugar mediated signaling pathway
+12	systemic acquired resistance
+12	systemic acquired resistance, salicylic ...
+12	transcription initiation from RNA polyme...
+12	valine metabolic process
+12	vitamin E biosynthetic process
+12	xylem development
+11	7-methylguanosine RNA capping
+11	alternative mRNA splicing, via spliceoso...
+11	anther dehiscence
+11	arachidonic acid secretion
+11	CDP-diacylglycerol biosynthetic process
+11	cellular response to nitrogen levels
+11	chalcone biosynthetic process
+11	cotyledon development
+11	defense response to insect
+11	defense response to oomycetes
+11	DNA endoreduplication
+11	drug transmembrane transport
+11	endosperm development
+11	epidermal cell fate specification
+11	exonucleolytic nuclear-transcribed mRNA ...
+11	glutamine metabolic process
+11	glycerol metabolic process
+11	GPI anchor biosynthetic process
+11	hexose catabolic process
+11	iron ion transmembrane transport
+11	L-arabinose metabolic process
+11	lipid A biosynthetic process
+11	long-day photoperiodism, flowering
+11	meiotic DNA double-strand break formatio...
+11	mitochondrial transport
+11	negative regulation of sinapate ester bi...
+11	negative regulation of translation
+11	nitrate assimilation
+11	nucleotide-excision repair
+11	pathogen-associated molecular pattern de...
+11	pectin catabolic process
+11	pH reduction
+11	potassium ion homeostasis
+11	proanthocyanidin biosynthetic process
+11	protein processing
+11	regulation of flower development
+11	regulation of organ growth
+11	response to far red light
+11	response to salt
+11	rRNA catabolic process
+11	specification of floral organ identity
+11	translational elongation
+11	transmembrane receptor protein tyrosine ...
+11	xylan biosynthetic process
+10	acceptance of pollen
+10	actin filament-based movement
+10	adaxial/abaxial axis specification
+10	ammonium transmembrane transport
+10	autophagosome assembly
+10	autophagy
+10	borate transport
+10	carotenoid biosynthetic process
+10	cell fate specification
+10	chaperone mediated protein folding requi...
+10	chorismate biosynthetic process
+10	cotyledon vascular tissue pattern format...
+10	cytoplasmic mRNA processing body assembl...
+10	developmental vegetative growth
+10	DNA catabolic process, endonucleolytic
+10	DNA duplex unwinding
+10	DNA replication initiation
+10	embryo development ending in seed dorman...
+10	epidermal cell differentiation
+10	glucose metabolic process
+10	glycine biosynthetic process
+10	immune response-regulating signaling pat...
+10	L-alanine catabolic process
+10	L-glutamate import
+10	lipid oxidation
+10	longitudinal axis specification
+10	lysine biosynthetic process via diaminop...
+10	maintenance of root meristem identity
+10	male meiosis
+10	meiotic DNA double-strand break processi...
+10	meiotic sister chromatid cohesion
+10	mRNA cleavage
+10	mRNA polyadenylation
+10	negative regulation of response to salt ...
+10	nitrate transport
+10	nitric oxide biosynthetic process
+10	nuclear-transcribed mRNA poly(A) tail sh...
+10	pollen exine formation
+10	pollen tube reception
+10	polyadenylation-dependent RNA catabolic ...
+10	primary alcohol metabolic process
+10	protein O-linked glycosylation via hydro...
+10	receptor-mediated endocytosis
+10	regulation of embryonic development
+10	regulation of meiotic nuclear division
+10	regulation of meristem growth
+10	regulation of root morphogenesis
+10	regulation of salicylic acid metabolic p...
+10	response to hypoxia
+10	response to nematode
+10	response to salt stress
+10	response to silver ion
+10	response to UV-B
+10	retrograde transport, endosome to Golgi
+10	RNA methylation
+10	stem vascular tissue pattern formation
+10	thigmotropism
+10	transpiration
+10	vernalization response
+10	very long-chain fatty acid metabolic pro...
+10	xenobiotic catabolic process
+9	actin filament bundle assembly
+9	actin filament capping
+9	arginine transport
+9	carbohydrate phosphorylation
+9	cell plate formation involved in plant-t...
+9	cellular biogenic amine biosynthetic pro...
+9	cellular copper ion homeostasis
+9	cellular response to chitin
+9	cellular response to external biotic sti...
+9	cellular response to phosphate starvatio...
+9	chaperone-mediated protein folding
+9	chloroplast organization
+9	cysteine biosynthetic process
+9	defense response to nematode
+9	DNA unwinding involved in DNA replicatio...
+9	embryo sac cellularization
+9	female meiotic division
+9	guard cell differentiation
+9	histone H3-K36 methylation
+9	histone H3-K9 methylation
+9	induced systemic resistance
+9	jasmonic acid metabolic process
+9	misfolded or incompletely synthesized pr...
+9	modulation by virus of host morphology o...
+9	mRNA transcription
+9	mucilage extrusion from seed coat
+9	negative regulation of ethylene-activate...
+9	negative regulation of lipid biosyntheti...
+9	negative regulation of transcription fro...
+9	nucleophagy
+9	nucleotide-sugar metabolic process
+9	oligopeptide transport
+9	phosphate ion transmembrane transport
+9	plant-type cell wall cellulose metabolic...
+9	pollen maturation
+9	positive regulation of cell growth
+9	positive regulation of DNA metabolic pro...
+9	proteasome-mediated ubiquitin-dependent ...
+9	protein import into peroxisome matrix
+9	recognition of pollen
+9	regulation of cell division
+9	regulation of cell size
+9	regulation of cytokinin-activated signal...
+9	regulation of DNA endoreduplication
+9	regulation of double-strand break repair...
+9	regulation of photoperiodism, flowering
+9	regulation of transcription, DNA-templat...
+9	response to cycloheximide
+9	response to endoplasmic reticulum stress
+9	response to wounding
+9	riboflavin biosynthetic process
+9	root cap development
+9	SCF-dependent proteasomal ubiquitin-depe...
+9	seed coat development
+9	seed dormancy process
+9	shade avoidance
+9	sulfate assimilation
+9	telomeric loop formation
+9	tetrahydrofolate biosynthetic process
+9	tubulin complex assembly
+9	vasculature development
+9	xanthophyll biosynthetic process
+9	xylan catabolic process
+8	abscisic acid transport
+8	adenylate cyclase-modulating G-protein c...
+8	alkane biosynthetic process
+8	anaphase
+8	basic amino acid transport
+8	cellular heat acclimation
+8	cellular iron ion homeostasis
+8	chlorophyll biosynthetic process
+8	chloroplast avoidance movement
+8	chromatin remodeling
+8	chromatin silencing by small RNA
+8	circadian rhythm
+8	cofactor transport
+8	CTP biosynthetic process
+8	cytochrome complex assembly
+8	cytokinesis by cell plate formation
+8	cytokinin biosynthetic process
+8	dATP biosynthetic process from ADP
+8	defense response to Gram-negative bacter...
+8	detection of gravity
+8	D-xylose metabolic process
+8	exocyst localization
+8	floral organ abscission
+8	floral organ senescence
+8	fruit dehiscence
+8	fucose biosynthetic process
+8	G1/S transition of mitotic cell cycle
+8	glycerol-3-phosphate catabolic process
+8	guanosine tetraphosphate metabolic proce...
+8	heat acclimation
+8	histone acetylation
+8	histone phosphorylation
+8	hydrogen peroxide catabolic process
+8	intracellular sequestering of iron ion
+8	leaf proximal/distal pattern formation
+8	L-phenylalanine biosynthetic process
+8	maintenance of floral organ identity
+8	malate transmembrane transport
+8	maltose metabolic process
+8	manganese ion homeostasis
+8	maturation of LSU-rRNA
+8	maturation of SSU-rRNA from tricistronic...
+8	megagametogenesis
+8	methylglyoxal catabolic process to D-lac...
+8	miRNA catabolic process
+8	mitochondrial translation
+8	myo-inositol hexakisphosphate biosynthet...
+8	negative regulation of catalytic activit...
+8	negative regulation of growth
+8	negative regulation of histone acetylati...
+8	negative regulation of posttranscription...
+8	neutral amino acid transport
+8	N-glycan processing
+8	nitrate import
+8	nonphotochemical quenching
+8	organophosphate catabolic process
+8	oxaloacetate transport
+8	pentose-phosphate shunt
+8	phosphorylation
+8	photosynthesis
+8	photosynthetic electron transport chain
+8	plant-type primary cell wall biogenesis
+8	positive regulation of anthocyanin metab...
+8	positive regulation of cellular response...
+8	positive regulation of hydrolase activit...
+8	positive regulation of potassium ion tra...
+8	positive regulation of proteasomal ubiqu...
+8	protein folding
+8	protein neddylation
+8	protein targeting to chloroplast
+8	regulation of circadian rhythm
+8	regulation of genetic imprinting
+8	regulation of GTPase activity
+8	regulation of ion homeostasis
+8	regulation of nitrogen utilization
+8	regulation of photosynthesis
+8	regulation of pollen tube growth
+8	regulation of stomatal opening
+8	response to flooding
+8	response to growth hormone
+8	response to hydrogen peroxide
+8	response to iron ion
+8	response to toxic substance
+8	RNA 5'-end processing
+8	root meristem growth
+8	SCF complex assembly
+8	spindle assembly
+8	strand invasion
+8	sucrose transport
+8	tRNA processing
+8	ubiquitin-dependent protein catabolic pr...
+8	valine catabolic process
+8	vegetative phase change
+8	viral gene silencing in virus induced ge...
+7	actin nucleation
+7	adventitious root development
+7	amino acid export
+7	amino acid transport
+7	anaerobic respiration
+7	anther development
+7	arginine biosynthetic process via ornith...
+7	arsenite transport
+7	beta-alanine metabolic process
+7	blue light signaling pathway
+7	cadmium ion transmembrane transport
+7	cell adhesion
+7	cell redox homeostasis
+7	cellular manganese ion homeostasis
+7	cellular response to freezing
+7	cellular response to heat
+7	cellular response to iron ion starvation
+7	cellular response to metal ion
+7	cellular response to salt stress
+7	cellulose microfibril organization
+7	cell wall pectin metabolic process
+7	ceramide biosynthetic process
+7	chloride transport
+7	copper ion transport
+7	cutin transport
+7	cytidine to uridine editing
+7	D-amino acid metabolic process
+7	'de novo' protein folding
+7	'de novo' pyrimidine nucleobase biosynth...
+7	DNA recombinase assembly
+7	endoplasmic reticulum organization
+7	ethylene-activated signaling pathway
+7	fatty acid homeostasis
+7	fatty acid transport
+7	floral meristem determinacy
+7	fructose metabolic process
+7	fruit ripening
+7	galactolipid biosynthetic process
+7	gene silencing by miRNA
+7	glucosamine-containing compound metaboli...
+7	glucuronoxylan biosynthetic process
+7	glutamyl-tRNA aminoacylation
+7	glycogen metabolic process
+7	glycolytic process
+7	Golgi to vacuole transport
+7	guard mother cell cytokinesis
+7	histone H4 acetylation
+7	hydrogen peroxide transmembrane transpor...
+7	induced systemic resistance, jasmonic ac...
+7	inflorescence development
+7	integument development
+7	isoleucine biosynthetic process
+7	leaf development
+7	long-chain fatty-acyl-CoA metabolic proc...
+7	magnesium ion transport
+7	maintenance of DNA repeat elements
+7	methionine biosynthetic process
+7	methylation-dependent chromatin silencin...
+7	mitochondrion localization
+7	mitophagy
+7	mitotic sister chromatid cohesion
+7	mitotic sister chromatid segregation
+7	monocarboxylic acid transport
+7	mRNA methylation
+7	negative regulation of gibberellic acid ...
+7	negative regulation of innate immune res...
+7	Notch signaling pathway
+7	nucleic acid phosphodiester bond hydroly...
+7	nucleotide transport
+7	one-carbon compound transport
+7	pathogenesis
+7	pentacyclic triterpenoid biosynthetic pr...
+7	phosphate ion homeostasis
+7	phosphatidylinositol-3-phosphate biosynt...
+7	phospholipid catabolic process
+7	photoprotection
+7	photosystem II stabilization
+7	plant-type cell wall modification involv...
+7	pollen tube adhesion
+7	polyamine transport
+7	positive regulation of abscisic acid bio...
+7	positive regulation of cell division
+7	positive regulation of cofactor metaboli...
+7	positive regulation of leaf senescence
+7	positive regulation of mitotic cell cycl...
+7	positive regulation of oxidoreductase ac...
+7	positive regulation of response to salt ...
+7	positive regulation of stem cell populat...
+7	positive regulation of tetrapyrrole meta...
+7	positive regulation of transcription elo...
+7	positive regulation of unidimensional ce...
+7	protein deneddylation
+7	protein import into nucleus, translocati...
+7	protein lipoylation
+7	protein maturation by iron-sulfur cluste...
+7	protein tetramerization
+7	protoporphyrinogen IX biosynthetic proce...
+7	PSII associated light-harvesting complex...
+7	pyridoxine biosynthetic process
+7	pyrimidine nucleobase metabolic process
+7	pyrimidine nucleotide biosynthetic proce...
+7	pyruvate metabolic process
+7	regulation of abscisic acid biosynthetic...
+7	regulation of cell wall organization or ...
+7	regulation of development, heterochronic
+7	regulation of fatty acid biosynthetic pr...
+7	regulation of G2/M transition of mitotic...
+7	regulation of ion transmembrane transpor...
+7	regulation of leaf development
+7	regulation of pH
+7	regulation of plant organ formation
+7	regulation of reactive oxygen species me...
+7	regulation of unidimensional cell growth
+7	response to abscisic acid
+7	response to anoxia
+7	response to L-glutamate
+7	response to mechanical stimulus
+7	response to pH
+7	response to water deprivation
+7	response to X-ray
+7	ribosomal large subunit export from nucl...
+7	salicylic acid mediated signaling pathwa...
+7	somatic embryogenesis
+7	stamen filament development
+7	sterol metabolic process
+7	sucrose catabolic process
+7	synaptonemal complex assembly
+7	syncytium formation
+7	transcription elongation from RNA polyme...
+7	transcription from plastid promoter
+7	tRNA modification
+7	vegetative to reproductive phase transit...
+7	virus induced gene silencing
+6	abaxial cell fate specification
+6	acetyl-CoA biosynthetic process
+6	adenosine metabolic process
+6	amino acid homeostasis
+6	amylopectin biosynthetic process
+6	anisotropic cell growth
+6	anthocyanin accumulation in tissues in r...
+6	brassinosteroid metabolic process
+6	callose deposition in phloem sieve plate
+6	cellular response to blue light
+6	cellular response to glucose stimulus
+6	cellular response to high light intensit...
+6	cellular response to hydrogen peroxide
+6	cellular response to misfolded protein
+6	cellular response to nitric oxide
+6	cellular response to sucrose stimulus
+6	cell wall organization
+6	chloroplast accumulation movement
+6	chloroplast fission
+6	choline metabolic process
+6	chromosome condensation
+6	coenzyme A biosynthetic process
+6	COP9 signalosome assembly
+6	copper ion transmembrane transport
+6	cytokinin catabolic process
+6	cytokinin metabolic process
+6	defense response to virus
+6	DNA demethylation
+6	DNA strand elongation involved in DNA re...
+6	double-strand break repair via nonhomolo...
+6	drug transport
+6	endosomal transport
+6	entrainment of circadian clock
+6	error-prone translesion synthesis
+6	floral organ morphogenesis
+6	formation of animal organ boundary
+6	gamma-aminobutyric acid transport
+6	glucose mediated signaling pathway
+6	glutathione catabolic process
+6	glycine decarboxylation via glycine clea...
+6	glycogen biosynthetic process
+6	histidine biosynthetic process
+6	histone H3 acetylation
+6	histone H3-K4 trimethylation
+6	innate immune response
+6	inositol biosynthetic process
+6	iron ion transport
+6	lagging strand elongation
+6	leaf senescence
+6	leucine catabolic process
+6	lignan biosynthetic process
+6	lipid storage
+6	lipid transport
+6	lipoate biosynthetic process
+6	magnesium ion transmembrane transport
+6	maturation of 5.8S rRNA from tricistroni...
+6	megasporogenesis
+6	Mo-molybdopterin cofactor biosynthetic p...
+6	mRNA splicing, via spliceosome
+6	mucilage biosynthetic process involved i...
+6	mucilage metabolic process involved in s...
+6	negative regulation of floral organ absc...
+6	NLS-bearing protein import into nucleus
+6	nucleosome positioning
+6	nucleus organization
+6	peptidyl-arginine methylation
+6	peroxisome organization
+6	positive regulation of histone H3-K27 me...
+6	positive regulation of long-day photoper...
+6	positive regulation of photomorphogenesi...
+6	positive regulation of programmed cell d...
+6	positive regulation of systemic acquired...
+6	positive regulation of translational elo...
+6	positive regulation of translational ter...
+6	pre-miRNA export from nucleus
+6	protein desumoylation
+6	protein glycosylation
+6	protein refolding
+6	protein retention in ER lumen
+6	pyrimidine-containing compound transmemb...
+6	pyrimidine dimer repair
+6	quaternary ammonium group transport
+6	red light signaling pathway
+6	regulation of auxin polar transport
+6	regulation of DNA methylation
+6	regulation of endosperm development
+6	regulation of lignin biosynthetic proces...
+6	regulation of organelle assembly
+6	regulation of phenylpropanoid metabolic ...
+6	regulation of protein export from nucleu...
+6	regulation of proteolysis
+6	regulation of proton transport
+6	regulation of reactive oxygen species bi...
+6	regulation of RNA splicing
+6	regulation of seed dormancy process
+6	resolution of meiotic recombination inte...
+6	response to gibberellin
+6	response to heat
+6	response to hormone
+6	response to ionizing radiation
+6	response to lithium ion
+6	response to UV-C
+6	ribosome biogenesis
+6	rRNA modification
+6	snoRNA 3'-end processing
+6	sodium ion homeostasis
+6	specification of floral organ number
+6	sphingoid biosynthetic process
+6	sphingolipid catabolic process
+6	sucrose metabolic process
+6	translational frameshifting
+6	triglyceride catabolic process
+6	tryptophan catabolic process to kynureni...
+6	UDP-D-xylose biosynthetic process
+6	UMP salvage
+6	unidimensional cell growth
+6	vacuolar acidification
+6	vesicle-mediated transport
+6	xylem and phloem pattern formation
+6	xyloglucan metabolic process
+6	zygote asymmetric cytokinesis in embryo ...
+5	abscisic acid-activated signaling pathwa...
+5	abscisic acid biosynthetic process
+5	actin filament depolymerization
+5	AMP salvage
+5	animal organ formation
+5	aromatic amino acid family biosynthetic ...
+5	auxin-activated signaling pathway
+5	auxin influx
+5	bundle sheath cell fate specification
+5	callose deposition in cell wall
+5	carbon fixation
+5	carotene biosynthetic process
+5	carotene catabolic process
+5	cellular metal ion homeostasis
+5	cellular response to abscisic acid stimu...
+5	cellular response to amino acid stimulus
+5	cellular response to molecule of bacteri...
+5	cellular response to oxidative stress
+5	cellular response to UV-B
+5	centromeric sister chromatid cohesion
+5	chloride transmembrane transport
+5	chloroplast mRNA processing
+5	chloroplast-nucleus signaling pathway
+5	chloroplast relocation
+5	cinnamic acid biosynthetic process
+5	circadian regulation of gene expression
+5	coumarin biosynthetic process
+5	cytosolic transport
+5	deadenylation-independent decapping of n...
+5	defense response by callose deposition
+5	'de novo' UMP biosynthetic process
+5	detection of hypoxia
+5	dicarboxylic acid biosynthetic process
+5	disaccharide catabolic process
+5	DNA ligation involved in DNA repair
+5	DNA methylation
+5	endoplasmic reticulum tubular network or...
+5	endoplasmic reticulum unfolded protein r...
+5	endosome organization
+5	ethanolamine-containing compound metabol...
+5	fatty acid beta-oxidation using acyl-CoA...
+5	galacturonate metabolic process
+5	glucosylceramide metabolic process
+5	glutamate metabolic process
+5	glutathione biosynthetic process
+5	guanosine-containing compound biosynthet...
+5	homocysteine metabolic process
+5	hydrogen peroxide mediated signaling pat...
+5	indole glucosinolate biosynthetic proces...
+5	inositol metabolic process
+5	isocitrate metabolic process
+5	jasmonic acid mediated signaling pathway
+5	leaf pavement cell development
+5	leucine biosynthetic process
+5	lipid homeostasis
+5	maintenance of inflorescence meristem id...
+5	maintenance of shoot apical meristem ide...
+5	mannan catabolic process
+5	MAPK cascade
+5	maturation of SSU-rRNA
+5	membrane fusion
+5	meristem initiation
+5	microtubule depolymerization
+5	microtubule nucleation
+5	mitochondrial genome maintenance
+5	mitochondrial membrane organization
+5	monosaccharide biosynthetic process
+5	mRNA processing
+5	negative regulation of cell cycle proces...
+5	negative regulation of cell death
+5	negative regulation of isoprenoid metabo...
+5	negative regulation of nuclear division
+5	negative regulation of peroxidase activi...
+5	negative regulation of plant-type hypers...
+5	negative regulation of stomatal complex ...
+5	negative regulation of transcription, DN...
+5	nuclear RNA surveillance
+5	nucleotide salvage
+5	organ boundary specification between lat...
+5	peptidyl-cysteine oxidation
+5	phosphatidylethanolamine biosynthetic pr...
+5	phosphatidylinositol biosynthetic proces...
+5	phosphatidylinositol-mediated signaling
+5	phosphoenolpyruvate transport
+5	phosphoglycerate transport
+5	photoinhibition
+5	photosystem II repair
+5	phototropism
+5	plant-type secondary cell wall biogenesi...
+5	plasmodesmata-mediated intercellular tra...
+5	positive regulation of cell cycle
+5	positive regulation of cell cycle proces...
+5	positive regulation of nuclear division
+5	positive regulation of protein kinase ac...
+5	positive regulation of salicylic acid me...
+5	positive regulation of stomatal opening
+5	positive regulation of transcription, DN...
+5	protein homotetramerization
+5	protein import into mitochondrial inner ...
+5	protein import into peroxisome matrix, d...
+5	protein oligomerization
+5	protein repair
+5	proton transport
+5	proximal/distal pattern formation
+5	purine nucleotide-sugar transmembrane tr...
+5	purine ribonucleoside salvage
+5	pyridoxal phosphate biosynthetic process
+5	regulation of carbohydrate biosynthetic ...
+5	regulation of cell aging
+5	regulation of cellular amino acid metabo...
+5	regulation of cyclin-dependent protein s...
+5	regulation of cytokinesis
+5	regulation of epidermal cell division
+5	regulation of establishment of cell pola...
+5	regulation of mitotic metaphase/anaphase...
+5	regulation of monopolar cell growth
+5	regulation of mRNA stability
+5	regulation of potassium ion transmembran...
+5	regulation of production of siRNA involv...
+5	regulation of programmed cell death
+5	regulation of protein catabolic process
+5	regulation of protein complex disassembl...
+5	regulation of protein ubiquitination
+5	regulation of response to DNA damage sti...
+5	regulation of seed growth
+5	removal of superoxide radicals
+5	respiratory electron transport chain
+5	response to acidic pH
+5	response to aluminum ion
+5	response to fungus
+5	response to low light intensity stimulus
+5	response to oxidative stress
+5	response to paraquat
+5	response to redox state
+5	response to singlet oxygen
+5	response to superoxide
+5	response to unfolded protein
+5	RNA splicing, via endonucleolytic cleava...
+5	rRNA 3'-end processing
+5	rRNA base methylation
+5	S-adenosylmethionine biosynthetic proces...
+5	salicylic acid biosynthetic process
+5	salicylic acid catabolic process
+5	secondary growth
+5	short-day photoperiodism, flowering
+5	simple leaf morphogenesis
+5	single organismal cell-cell adhesion
+5	spliceosomal snRNP assembly
+5	sporopollenin biosynthetic process
+5	stem cell development
+5	stomatal closure
+5	stomatal complex morphogenesis
+5	sulfur compound transport
+5	synapsis
+5	telomere tethering at nuclear periphery
+5	transcription-dependent tethering of RNA...
+5	tricarboxylic acid metabolic process
+5	trichome morphogenesis
+5	tRNA thio-modification
+5	tRNA wobble uridine modification
+5	tyrosine biosynthetic process
+5	UDP-xylose transport
+5	valine biosynthetic process
+5	vitamin transport
+5	water-soluble vitamin biosynthetic proce...
+5	xanthophyll catabolic process
+4	(1->3)-beta-D-glucan biosynthetic proces...
+4	3'-UTR-mediated mRNA destabilization
+4	acidic amino acid transport
+4	acropetal auxin transport
+4	adenine transport
+4	aerobic respiration
+4	amine transport
+4	amino acid import
+4	ammonia assimilation cycle
+4	animal organ development
+4	anther wall tapetum cell differentiation
+4	aspartate family amino acid catabolic pr...
+4	ATP biosynthetic process
+4	auxin metabolic process
+4	auxin polar transport
+4	biotin biosynthetic process
+4	calcium ion homeostasis
+4	carbon utilization
+4	carotene metabolic process
+4	cell cycle phase
+4	cell division
+4	cell fate determination
+4	cellular oxidant detoxification
+4	cellular response to DNA damage stimulus
+4	cellular response to potassium ion starv...
+4	cellular response to salicylic acid stim...
+4	cellular response to UV-C
+4	cellular response to water deprivation
+4	cell wall modification
+4	chloroplast rRNA processing
+4	chromatin silencing
+4	chromosome organization involved in meio...
+4	chromosome segregation
+4	cleavage involved in rRNA processing
+4	cysteine biosynthetic process from serin...
+4	cytochrome b6f complex assembly
+4	defense response, incompatible interacti...
+4	deoxyribonucleoside monophosphate biosyn...
+4	determination of bilateral symmetry
+4	DNA-dependent DNA replication
+4	embryonic morphogenesis
+4	endomembrane system organization
+4	ent-kaurene oxidation to kaurenoic acid
+4	epoxygenase P450 pathway
+4	ERAD pathway
+4	establishment of vesicle localization
+4	exocyst assembly
+4	farnesyl diphosphate biosynthetic proces...
+4	female gamete generation
+4	flower development
+4	gamma-aminobutyric acid catabolic proces...
+4	GDP-mannose biosynthetic process
+4	geranyl diphosphate biosynthetic process
+4	glucosinolate biosynthetic process
+4	glutamate decarboxylation to succinate
+4	glycoprotein catabolic process
+4	glycosaminoglycan biosynthetic process
+4	Golgi localization
+4	guanine transport
+4	heme biosynthetic process
+4	histone H3-K9 demethylation
+4	hypotonic salinity response
+4	import across plasma membrane
+4	inositol phosphate dephosphorylation
+4	intermembrane lipid transfer
+4	late endosome to vacuole transport
+4	lateral root branching
+4	lateral root development
+4	lipid glycosylation
+4	long-chain fatty acid metabolic process
+4	maintenance of floral meristem identity
+4	maintenance of protein localization in o...
+4	mitochondrial ATP synthesis coupled prot...
+4	mitochondrial electron transport, cytoch...
+4	mitochondrial electron transport, NADH t...
+4	mitochondrial electron transport, ubiqui...
+4	mitotic DNA replication
+4	monoterpene biosynthetic process
+4	mRNA cis splicing, via spliceosome
+4	multicellular organismal homeostasis
+4	negative regulation of anion channel act...
+4	negative regulation of cytoskeleton orga...
+4	negative regulation of developmental gro...
+4	negative regulation of intracellular sig...
+4	negative regulation of photomorphogenesi...
+4	negative regulation of protein depolymer...
+4	negative regulation of starch metabolic ...
+4	negative regulation of supramolecular fi...
+4	nucleotide-sugar transport
+4	ornithine metabolic process
+4	para-aminobenzoic acid biosynthetic proc...
+4	peptidyl-proline hydroxylation to 4-hydr...
+4	peroxisome fission
+4	peroxisome localization
+4	phosphatidylcholine biosynthetic process
+4	photosynthesis, light reaction
+4	photosynthetic acclimation
+4	(-)-pinoresinol biosynthetic process
+4	plastid translation
+4	pollen wall assembly
+4	polyamine catabolic process
+4	positive regulation of anthocyanin biosy...
+4	positive regulation of autophagy
+4	positive regulation of auxin metabolic p...
+4	positive regulation of carotenoid biosyn...
+4	positive regulation of cation transmembr...
+4	positive regulation of cell differentiat...
+4	positive regulation of cellular amino ac...
+4	positive regulation of development, hete...
+4	positive regulation of fatty acid biosyn...
+4	positive regulation of gibberellic acid ...
+4	positive regulation of growth
+4	positive regulation of microtubule polym...
+4	positive regulation of protein import in...
+4	positive regulation of response to oxida...
+4	positive regulation of secondary cell wa...
+4	posttranscriptional tethering of RNA pol...
+4	production of small RNA involved in gene...
+4	proteasome assembly
+4	protein dephosphorylation
+4	protein heterooligomerization
+4	protein localization to pre-autophagosom...
+4	protein targeting to ER
+4	proteolysis
+4	purine nucleobase catabolic process
+4	purine nucleobase transport
+4	purine nucleoside bisphosphate biosynthe...
+4	purine nucleoside catabolic process
+4	pyrimidine nucleobase salvage
+4	pyrimidine nucleoside salvage
+4	red or far-red light signaling pathway
+4	regulation of anthocyanin metabolic proc...
+4	regulation of autophagy
+4	regulation of auxin mediated signaling p...
+4	regulation of beta-glucan biosynthetic p...
+4	regulation of cell cycle G1/S phase tran...
+4	regulation of cell fate commitment
+4	regulation of cell proliferation
+4	regulation of cellular protein localizat...
+4	regulation of cellular response to stres...
+4	regulation of chromatin silencing
+4	regulation of defense response to virus
+4	regulation of DNA recombination
+4	regulation of ethylene biosynthetic proc...
+4	regulation of exocytosis
+4	regulation of gibberellin biosynthetic p...
+4	regulation of histone H3-K27 trimethylat...
+4	regulation of jasmonic acid metabolic pr...
+4	regulation of lateral root development
+4	regulation of methylation-dependent chro...
+4	regulation of microtubule polymerization...
+4	regulation of mRNA splicing, via spliceo...
+4	regulation of phosphate transport
+4	regulation of potassium ion transport
+4	regulation of removal of superoxide radi...
+4	regulation of response to water deprivat...
+4	regulation of root development
+4	regulation of salicylic acid biosyntheti...
+4	regulation of systemic acquired resistan...
+4	regulation of translation
+4	regulation of translational elongation
+4	regulation of translational initiation
+4	response to caffeine
+4	response to copper ion
+4	response to light stimulus
+4	response to lipid hydroperoxide
+4	response to low fluence blue light stimu...
+4	response to molecule of fungal origin
+4	response to non-ionic osmotic stress
+4	response to oomycetes
+4	ribonucleoside bisphosphate biosynthetic...
+4	ribosomal large subunit biogenesis
+4	ribosome assembly
+4	S-adenosylmethionine cycle
+4	selenium compound metabolic process
+4	sequestering of zinc ion
+4	shikimate metabolic process
+4	sodium ion import across plasma membrane
+4	sphingolipid metabolic process
+4	spliceosomal complex assembly
+4	stem cell division
+4	stem cell population maintenance
+4	sulfur amino acid catabolic process
+4	thiamine biosynthetic process
+4	TOR signaling
+4	tRNA splicing, via endonucleolytic cleav...
+4	UDP-glucuronate biosynthetic process
+4	ureide catabolic process
+4	vacuolar protein processing
+4	vesicle docking
+4	xanthophyll metabolic process
+4	xylan acetylation
+4	xylem vessel member cell differentiation
+3	2'-deoxyribonucleotide biosynthetic proc...
+3	abscisic acid catabolic process
+3	acetyl-CoA biosynthetic process from pyr...
+3	acetyl-CoA metabolic process
+3	actin filament organization
+3	adaxial/abaxial pattern specification
+3	adenine salvage
+3	ADP transport
+3	aldehyde catabolic process
+3	anion homeostasis
+3	antisense RNA metabolic process
+3	arabinose metabolic process
+3	arginine catabolic process
+3	aspartate family amino acid biosynthetic...
+3	autophagosome organization
+3	carbohydrate transport
+3	carpel development
+3	cell-cell junction assembly
+3	cell cycle arrest
+3	cell plate assembly
+3	cellular glucose homeostasis
+3	cellular monovalent inorganic anion home...
+3	cellular potassium ion homeostasis
+3	cellular process involved in reproductio...
+3	cellular respiration
+3	cellular response to fatty acid
+3	cellular response to light intensity
+3	cellular response to UV-A
+3	cellular response to virus
+3	cellular zinc ion homeostasis
+3	cell wall modification involved in absci...
+3	centromere complex assembly
+3	chaperone-mediated protein complex assem...
+3	chlorophyll metabolic process
+3	chorismate metabolic process
+3	COPII vesicle coating
+3	cyanide metabolic process
+3	cytoskeleton-dependent intracellular tra...
+3	deadenylation-dependent decapping of nuc...
+3	deoxyribonucleoside triphosphate biosynt...
+3	dephosphorylation
+3	diacylglycerol metabolic process
+3	DNA damage checkpoint
+3	DNA-dependent DNA replication maintenanc...
+3	DNA repair
+3	DNA replication-independent nucleosome o...
+3	DNA-templated transcription, initiation
+3	double-strand break repair
+3	electron transport coupled proton transp...
+3	embryo development
+3	embryo sac central cell differentiation
+3	establishment of cell polarity
+3	establishment of organelle localization
+3	establishment or maintenance of transmem...
+3	fatty acid biosynthetic process
+3	fatty acid oxidation
+3	flavin adenine dinucleotide metabolic pr...
+3	flavone biosynthetic process
+3	G2/M transition of mitotic cell cycle
+3	GDP-L-fucose biosynthetic process
+3	generation of catalytic spliceosome for ...
+3	glucosinolate catabolic process
+3	glycerol catabolic process
+3	Golgi to plasma membrane transport
+3	GTP biosynthetic process
+3	guard mother cell differentiation
+3	gynoecium development
+3	hexose biosynthetic process
+3	histone H3-K4 methylation
+3	histone lysine methylation
+3	histone methylation
+3	hydrogen sulfide biosynthetic process
+3	indoleacetic acid biosynthetic process
+3	indoleacetic acid metabolic process
+3	indole phytoalexin biosynthetic process
+3	inositol trisphosphate metabolic process
+3	intracellular lipid transport
+3	intracellular protein transport
+3	intracellular signal transduction
+3	leaf morphogenesis
+3	leaf phyllotactic patterning
+3	lignin biosynthetic process
+3	lipid particle organization
+3	L-methionine salvage from methylthioaden...
+3	low-affinity nitrate transport
+3	lysine metabolic process
+3	maintenance of seed dormancy
+3	male meiosis cytokinesis
+3	maturation of 5.8S rRNA
+3	mature ribosome assembly
+3	meristem maintenance
+3	meristem structural organization
+3	microtubule cytoskeleton organization
+3	mitochondrial ATP synthesis coupled elec...
+3	mitochondrial transmembrane transport
+3	mitotic spindle assembly checkpoint
+3	modified amino acid transport
+3	molybdate ion transport
+3	monopolar cell growth
+3	mRNA modification
+3	mRNA splice site selection
+3	mucilage biosynthetic process
+3	negative regulation of chromatin silenci...
+3	negative regulation of DNA endoreduplica...
+3	negative regulation of fatty acid metabo...
+3	negative regulation of flavonoid biosynt...
+3	negative regulation of ion transport
+3	negative regulation of organ growth
+3	negative regulation of peptidyl-tyrosine...
+3	negative regulation of protein catabolic...
+3	negative regulation of protein serine/th...
+3	N-terminal protein amino acid acetylatio...
+3	nuclear envelope organization
+3	nuclear migration along microfilament
+3	nuclear mRNA surveillance
+3	nucleobase catabolic process
+3	oligosaccharide metabolic process
+3	oxaloacetate metabolic process
+3	pentose-phosphate shunt, oxidative branc...
+3	peptidyl-lysine trimethylation
+3	phloem or xylem histogenesis
+3	phosphatidylglycerol biosynthetic proces...
+3	phragmoplast assembly
+3	phragmoplast microtubule organization
+3	plant-type cell wall biogenesis
+3	plant-type cell wall modification
+3	plant-type hypersensitive response
+3	plasmodesma organization
+3	plastoquinone biosynthetic process
+3	pollen tube growth
+3	poly(A)+ mRNA export from nucleus
+3	polyol biosynthetic process
+3	polyprenol biosynthetic process
+3	positive regulation of auxin biosyntheti...
+3	positive regulation of chromosome organi...
+3	positive regulation of chromosome segreg...
+3	positive regulation of cyclin-dependent ...
+3	positive regulation of developmental gro...
+3	positive regulation of ethylene biosynth...
+3	positive regulation of histone acetylati...
+3	positive regulation of mRNA metabolic pr...
+3	positive regulation of reactive oxygen s...
+3	positive regulation of ubiquitin protein...
+3	posttranscriptional gene silencing by RN...
+3	procambium histogenesis
+3	protein-DNA complex assembly
+3	protein geranylgeranylation
+3	protein import into chloroplast thylakoi...
+3	protein import into mitochondrial outer ...
+3	protein monoubiquitination
+3	protein polymerization
+3	protein storage vacuole organization
+3	protein sumoylation
+3	protein targeting to membrane
+3	protein transport
+3	proton-transporting two-sector ATPase co...
+3	purine nucleobase metabolic process
+3	purine ribonucleotide biosynthetic proce...
+3	putrescine biosynthetic process
+3	pyrimidine-containing compound catabolic...
+3	pyrimidine nucleotide-sugar transport
+3	regulation of cell differentiation
+3	regulation of defense response to virus ...
+3	regulation of DNA-templated transcriptio...
+3	regulation of establishment or maintenan...
+3	regulation of ethylene-activated signali...
+3	regulation of glucosinolate biosynthetic...
+3	regulation of hydrogen peroxide metaboli...
+3	regulation of isopentenyl diphosphate bi...
+3	regulation of mRNA processing
+3	regulation of nuclear division
+3	regulation of peroxidase activity
+3	regulation of peroxisome size
+3	regulation of plant-type hypersensitive ...
+3	regulation of protein import into chloro...
+3	regulation of purine nucleotide metaboli...
+3	regulation of Ras protein signal transdu...
+3	regulation of seed germination
+3	regulation of shoot system morphogenesis
+3	regulation of short-day photoperiodism, ...
+3	regulation of sphingolipid biosynthetic ...
+3	regulation of starch metabolic process
+3	regulation of vesicle targeting, to, fro...
+3	respiratory chain complex IV assembly
+3	response to amino acid
+3	response to bacterium
+3	response to calcium ion
+3	response to endogenous stimulus
+3	response to jasmonic acid
+3	response to metal ion
+3	response to microbial phytotoxin
+3	response to misfolded protein
+3	response to osmotic stress
+3	response to reactive oxygen species
+3	response to salicylic acid
+3	response to temperature stimulus
+3	response to vitamin B1
+3	ribonucleoside biosynthetic process
+3	ribonucleoside catabolic process
+3	ribosomal subunit export from nucleus
+3	RNA catabolic process
+3	RNA phosphodiester bond hydrolysis, endo...
+3	RNA splicing
+3	RNA virus induced gene silencing
+3	root meristem specification
+3	rRNA processing
+3	rRNA pseudouridine synthesis
+3	secondary metabolite biosynthetic proces...
+3	seed development
+3	seed morphogenesis
+3	sesquiterpene biosynthetic process
+3	sesquiterpenoid biosynthetic process
+3	sexual reproduction
+3	signal peptide processing
+3	signal transduction
+3	singlet oxygen-mediated programmed cell ...
+3	sister chromatid cohesion
+3	snRNA 3'-end processing
+3	somatic cell DNA recombination
+3	specification of symmetry
+3	spermidine biosynthetic process
+3	stomatal complex patterning
+3	stomatal opening
+3	telomere maintenance via telomerase
+3	tetrahydrofolate interconversion
+3	threonine biosynthetic process
+3	transcription from RNA polymerase III pr...
+3	translation(4e-05)
+3	triose phosphate transport
+3	tRNA methylation
+3	UDP-L-arabinose metabolic process
+3	UTP biosynthetic process
+3	UV protection
+3	vacuolar transport
+3	valyl-tRNA aminoacylation
+3	vesicle fusion with Golgi apparatus
+3	wax metabolic process
+2	actin polymerization or depolymerization
+2	acylglycerol biosynthetic process
+2	AMP biosynthetic process
+2	anatomical structure arrangement
+2	anthocyanin-containing compound metaboli...
+2	arginine biosynthetic process
+2	Arp2/3 complex-mediated actin nucleation
+2	arsenate ion transmembrane transport
+2	assembly of large subunit precursor of p...
+2	ATP synthesis coupled electron transport(8e-05)
+2	auxin mediated signaling pathway involve...
+2	capsule polysaccharide biosynthetic proc...
+2	carbohydrate metabolic process
+2	carbohydrate transmembrane transport
+2	carpel morphogenesis
+2	cell differentiation
+2	cell morphogenesis involved in different...
+2	cell surface receptor signaling pathway
+2	cellular component disassembly
+2	cellular modified amino acid metabolic p...
+2	cellular monovalent inorganic cation hom...
+2	cellular response to far red light
+2	cellular response to nitrate
+2	cellular response to red light
+2	cellular response to singlet oxygen
+2	cellular response to UV
+2	cellular transition metal ion homeostasi...
+2	cell wall polysaccharide biosynthetic pr...
+2	chromatin remodeling at centromere
+2	chromosome localization
+2	chromosome separation
+2	cytokinesis
+2	cytoplasmic microtubule organization
+2	defense response to fungus
+2	defense response to other organism
+2	'de novo' GDP-L-fucose biosynthetic proc...
+2	dephosphorylation of RNA polymerase II C...
+2	detection of chemical stimulus
+2	detection of hormone stimulus
+2	detoxification
+2	detoxification of inorganic compound
+2	developmental growth involved in morphog...
+2	DNA catabolic process
+2	DNA duplex unwinding(6e-06)
+2	DNA replication
+2	DNA replication checkpoint
+2	DNA synthesis involved in DNA repair
+2	DNA-templated transcription, elongation(8.8e-05)
+2	drug transmembrane transport(1.8e-05)
+2	embryonic meristem development
+2	embryo sac development
+2	endocytic recycling
+2	endodermal cell differentiation
+2	endonucleolytic cleavage involved in rRN...
+2	endosome transport via multivesicular bo...
+2	ergosterol biosynthetic process
+2	establishment of planar polarity
+2	establishment or maintenance of cell pol...
+2	exocytosis(5.3e-05)
+2	fatty acid metabolic process
+2	flavin-containing compound metabolic pro...
+2	flavonoid biosynthetic process
+2	floral organ formation
+2	folic acid biosynthetic process
+2	folic acid-containing compound biosynthe...
+2	formation by symbiont of syncytium invol...
+2	gamete generation
+2	gene silencing by RNA
+2	gibberellic acid homeostasis
+2	gibberellin catabolic process
+2	glucan catabolic process
+2	glucose homeostasis
+2	glucose transmembrane transport
+2	glucosinolate transport
+2	glutamate biosynthetic process
+2	glycerolipid catabolic process
+2	glycosyl compound catabolic process
+2	glyoxylate metabolic process
+2	Golgi vesicle transport
+2	G-protein coupled receptor signaling pat...
+2	guard cell morphogenesis
+2	heterochromatin organization
+2	histone H2B ubiquitination
+2	histone lysine demethylation
+2	homologous chromosome segregation
+2	homoserine metabolic process
+2	IMP metabolic process
+2	indolebutyric acid metabolic process
+2	indole glucosinolate metabolic process
+2	inflorescence morphogenesis
+2	inner mitochondrial membrane organizatio...
+2	intercellular transport
+2	interphase microtubule nucleation by int...
+2	intralumenal vesicle formation
+2	leaf formation
+2	leucine metabolic process
+2	L-glutamate transport
+2	lipid catabolic process
+2	lipid X metabolic process
+2	L-methionine biosynthetic process
+2	long-chain fatty acid biosynthetic proce...
+2	L-serine metabolic process
+2	maintenance of protein localization in e...
+2	maintenance of protein location in cell
+2	membrane lipid catabolic process
+2	metal ion transport
+2	microgametogenesis
+2	microsporocyte differentiation
+2	microtubule polymerization
+2	mitochondrial mRNA processing
+2	mitochondrion organization
+2	mitotic cell cycle phase transition
+2	mitotic DNA integrity checkpoint
+2	mitotic spindle assembly
+2	monocarboxylic acid biosynthetic process
+2	mRNA 3'-end processing
+2	mRNA export from nucleus(6e-06)
+2	multidimensional cell growth
+2	ncRNA transcription
+2	negative regulation of actin filament po...
+2	negative regulation of cell differentiat...
+2	negative regulation of cellular carbohyd...
+2	negative regulation of immune response
+2	negative regulation of mitotic cell cycl...
+2	negative regulation of reproductive proc...
+2	negative regulation of seed maturation
+2	negative regulation of transferase activ...
+2	N-terminal protein amino acid modificati...
+2	nuclear import
+2	nuclear migration
+2	nucleoside transport
+2	oligosaccharide biosynthetic process
+2	organelle assembly
+2	organelle disassembly
+2	organelle membrane fusion
+2	organ growth
+2	organic hydroxy compound transport
+2	organic substance transport
+2	organophosphate ester transport
+2	peptide catabolic process
+2	peptidyl-methionine modification
+2	petal morphogenesis
+2	phenol-containing compound catabolic pro...
+2	phloem development
+2	phloem glucosinolate loading
+2	phospholipid biosynthetic process
+2	phosphorelay signal transduction system
+2	photoperiodism, flowering
+2	photosystem I stabilization
+2	phylloquinone biosynthetic process
+2	plasma membrane organization
+2	polyprenol metabolic process
+2	polysaccharide catabolic process
+2	polysaccharide localization
+2	positive regulation of anion channel act...
+2	positive regulation of brassinosteroid m...
+2	positive regulation of catalytic activit...
+2	positive regulation of cellular componen...
+2	positive regulation of cutin biosyntheti...
+2	positive regulation of embryonic develop...
+2	positive regulation of flower developmen...(6.8e-05)
+2	positive regulation of histone H3-K9 met...
+2	positive regulation of intracellular sig...
+2	positive regulation of ion transport
+2	positive regulation of meiotic cell cycl...
+2	positive regulation of mRNA catabolic pr...
+2	positive regulation of organelle organiz...
+2	positive regulation of phosphorylation o...
+2	positive regulation of plant-type hypers...
+2	positive regulation of protein serine/th...
+2	positive regulation of response to DNA d...
+2	positive regulation of shade avoidance
+2	positive regulation of sulfur metabolic ...
+2	positive regulation of transcription ini...
+2	positive regulation of transferase activ...
+2	positive regulation of transport
+2	postreplication repair
+2	post-translational protein modification
+2	primary meristem tissue development
+2	production of siRNA involved in chromati...
+2	proline metabolic process
+2	protein insertion into membrane
+2	protein K63-linked ubiquitination
+2	protein localization to nuclear envelope
+2	protein targeting to vacuole involved in...
+2	pteridine-containing compound biosynthet...
+2	purine nucleobase biosynthetic process
+2	purine nucleotide-sugar transport
+2	pyridine nucleotide biosynthetic process
+2	pyrimidine nucleoside triphosphate biosy...
+2	regulation of actin filament depolymeriz...
+2	regulation of actin filament polymerizat...
+2	regulation of alternative mRNA splicing,...
+2	regulation of anion transport
+2	regulation of ARF protein signal transdu...
+2	regulation of asymmetric cell division
+2	regulation of cell cycle
+2	regulation of cell morphogenesis involve...
+2	regulation of dephosphorylation
+2	regulation of DNA repair
+2	regulation of DNA replication
+2	regulation of fatty acid beta-oxidation
+2	regulation of gene silencing
+2	regulation of growth
+2	regulation of histone H3-K9 dimethylatio...
+2	regulation of histone methylation
+2	regulation of hormone metabolic process
+2	regulation of intracellular transport
+2	regulation of leaf senescence
+2	regulation of mRNA catabolic process
+2	regulation of plant organ morphogenesis
+2	regulation of polysaccharide biosyntheti...
+2	regulation of post-embryonic development
+2	regulation of post-embryonic root develo...
+2	regulation of protein complex assembly
+2	regulation of protein stability
+2	regulation of response to red or far red...
+2	regulation of response to salt stress
+2	regulation of ribosome biogenesis
+2	regulation of rRNA processing
+2	regulation of seed maturation
+2	regulation of sequence-specific DNA bind...
+2	regulation of shade avoidance
+2	regulation of stem cell population maint...
+2	regulation of stomatal movement
+2	regulation of stomatal movement(9.5e-05)
+2	regulation of transcription from RNA pol...
+2	regulation of ubiquitin protein ligase a...
+2	regulation of vesicle-mediated transport
+2	response to ammonium ion
+2	response to gravity
+2	response to organic cyclic compound
+2	response to oxygen radical
+2	response to potassium ion
+2	response to sucrose(1.8e-05)
+2	response to symbiotic fungus
+2	response to virus
+2	response to zinc ion(1.1e-05)
+2	rhamnogalacturonan I side chain metaboli...
+2	ribonucleoprotein complex assembly
+2	ribonucleoprotein complex disassembly
+2	ribosomal small subunit assembly(4.4e-06)
+2	RNA 3'-end processing
+2	RNA export from nucleus
+2	RNA modification
+2	RNA secondary structure unwinding(7.8e-06)
+2	root development
+2	root hair cell development
+2	rRNA methylation
+2	second-messenger-mediated signaling
+2	seed germination
+2	serine family amino acid catabolic proce...
+2	sialylation
+2	single-organism catabolic process
+2	snRNA processing
+2	snRNA pseudouridine synthesis
+2	specification of plant organ axis polari...
+2	spermine biosynthetic process
+2	spermine metabolic process
+2	stress response to metal ion
+2	suspensor development
+2	thiamine diphosphate biosynthetic proces...
+2	threonine metabolic process
+2	transcription, DNA-templated
+2	transmembrane phosphate ion transport fr...
+2	transmitting tissue development
+2	transport of virus in multicellular host
+2	trichome differentiation
+2	UDP-L-arabinose biosynthetic process
+2	UDP-rhamnose biosynthetic process
+2	urea metabolic process
+2	vacuolar phosphate transport
+2	viral process
+1	abscisic acid metabolic process
+1	abscission
+1	acropetal auxin transport(1e-07)
+1	actin crosslink formation
+1	actin filament-based process
+1	activation of MAPK activity
+1	acyl-CoA biosynthetic process
+1	aldehyde biosynthetic process
+1	alkaloid metabolic process
+1	alpha-amino acid catabolic process
+1	alternative mRNA splicing, via spliceoso...(1.9e-06)
+1	alternative mRNA splicing, via spliceoso...(4.7e-10)
+1	amino acid transmembrane transport(4.6e-05)
+1	ammonium ion metabolic process
+1	ammonium transport
+1	AMP salvage(1.3e-05)
+1	anthocyanin accumulation in tissues in r...(4.5e-07)
+1	anthocyanin-containing compound biosynth...(4.7e-05)
+1	arginine metabolic process
+1	aspartate family amino acid metabolic pr...
+1	asymmetric cell division(6.1e-05)
+1	ATP hydrolysis coupled ion transmembrane...
+1	ATP synthesis coupled proton transport(1.2e-06)
+1	ATP synthesis coupled proton transport(2.2e-05)
+1	ATP synthesis coupled proton transport(2.4e-07)
+1	auxin metabolic process(9.5e-05)
+1	axis specification
+1	basipetal auxin transport(1.4e-05)
+1	bract development
+1	bract formation
+1	brassinosteroid mediated signaling pathw...(6.2e-05)
+1	C4-dicarboxylate transport
+1	calcium-mediated signaling(2.7e-05)
+1	carotenoid metabolic process
+1	cell adhesion(1.3e-05)
+1	cell aging
+1	cell cycle
+1	cell proliferation
+1	cell proliferation(6.4e-05)
+1	cell recognition
+1	cellular aldehyde metabolic process
+1	cellular amide metabolic process(5.8e-05)
+1	cellular amino acid biosynthetic process
+1	cellular amino acid catabolic process
+1	cellular amino acid metabolic process
+1	cellular calcium ion homeostasis(2.7e-05)
+1	cellular catabolic process
+1	cellular defense response
+1	cellular hyperosmotic salinity response
+1	cellular ion homeostasis
+1	cellularization
+1	cellular macromolecule localization
+1	cellular modified amino acid catabolic p...
+1	cellular polysaccharide catabolic proces...
+1	cellular protein complex localization
+1	cellular protein localization(5.5e-08)
+1	cellular protein modification process
+1	cellular response to biotic stimulus
+1	cellular response to cytokinin stimulus
+1	cellular response to disaccharide stimul...
+1	cellular response to ethylene stimulus
+1	cellular response to organonitrogen comp...
+1	cellular response to osmotic stress
+1	cellular response to starvation
+1	cellular response to unfolded protein
+1	cellular water homeostasis(1.3e-05)
+1	cellular water homeostasis(5.8e-05)
+1	cellulose biosynthetic process(3.5e-05)
+1	cellulose biosynthetic process(5.9e-05)
+1	cellulose metabolic process
+1	cell wall biogenesis
+1	cell wall biogenesis(7e-07)
+1	cell wall organization(1.4e-07)
+1	chlorophyll biosynthetic process(8.5e-05)
+1	chlorophyll catabolic process(1.4e-05)
+1	chloroplast localization
+1	chloroplast organization(1.1e-05)
+1	chloroplast relocation(1e-05)
+1	cholesterol biosynthetic process
+1	chromatin assembly or disassembly
+1	chromatin maintenance
+1	chromatin silencing(6.4e-05)
+1	chromosome condensation(4.2e-06)
+1	circadian regulation of calcium ion osci...
+1	citrate transport
+1	clathrin coat assembly(3.5e-05)
+1	clathrin-dependent endocytosis(9.8e-05)
+1	coenzyme biosynthetic process
+1	copper ion homeostasis
+1	cortical cytoskeleton organization
+1	cortical cytoskeleton organization(8.4e-05)
+1	cotyledon morphogenesis
+1	cysteine metabolic process
+1	cytoplasmic translation(1.4e-07)
+1	dATP biosynthetic process from ADP(7e-08)
+1	de-etiolation(3.9e-05)
+1	defense response
+1	'de novo' posttranslational protein fold...
+1	deoxyribonucleotide metabolic process
+1	detection of brassinosteroid stimulus
+1	detection of external biotic stimulus
+1	detection of light stimulus
+1	determination of dorsal identity
+1	developmental cell growth
+1	diacylglycerol catabolic process
+1	dicarboxylic acid catabolic process
+1	dicarboxylic acid metabolic process
+1	diterpenoid metabolic process
+1	divalent inorganic anion homeostasis
+1	DNA biosynthetic process
+1	DNA catabolic process(8.8e-05)
+1	DNA methylation(6.5e-05)
+1	DNA recombination
+1	DNA recombination(2.8e-05)
+1	DNA replication initiation(6e-06)
+1	DNA-templated transcriptional preinitiat...
+1	DNA unwinding involved in DNA replicatio...(1.9e-06)
+1	dolichol metabolic process
+1	double-strand break repair(1.6e-05)
+1	double-strand break repair via break-ind...
+1	double-strand break repair via synthesis...
+1	electron transport chain
+1	embryo development(3e-05)
+1	embryo development(4.3e-09)
+1	embryonic axis specification
+1	embryonic pattern specification
+1	endocytosis(3.8e-05)
+1	energy coupled proton transmembrane tran...(9.8e-07)
+1	ER to Golgi vesicle-mediated transport(1.3e-05)
+1	exocytosis
+1	external encapsulating structure organiz...(4.4e-08)
+1	farnesyl diphosphate metabolic process
+1	fatty acid beta-oxidation(4.3e-06)
+1	floral organ development
+1	flower morphogenesis
+1	folic acid-containing compound metabolic...
+1	formation of animal organ boundary(2.8e-07)
+1	formation of plant organ boundary
+1	GDP-mannose metabolic process
+1	gene expression
+1	genetic imprinting
+1	gibberellin biosynthetic process(2.2e-05)
+1	gibberellin biosynthetic process(3.1e-05)
+1	glutamine family amino acid biosynthetic...
+1	glyceraldehyde-3-phosphate metabolic pro...
+1	glycerol-3-phosphate metabolic process
+1	glycerol metabolic process(4.7e-06)
+1	glycerophospholipid biosynthetic process
+1	glycerophospholipid biosynthetic process(5.7e-05)
+1	glycine catabolic process
+1	glycolipid biosynthetic process
+1	glycolytic process(4.5e-05)
+1	granum assembly
+1	GTP metabolic process
+1	guanosine-containing compound metabolic ...
+1	gynoecium development(5.9e-05)
+1	heme metabolic process
+1	hemicellulose metabolic process(9.3e-06)
+1	high-affinity potassium ion import
+1	histone exchange
+1	histone H3-K9 methylation(3.9e-06)
+1	histone modification(3.4e-05)
+1	hormone biosynthetic process
+1	hormone-mediated signaling pathway
+1	hydrogen peroxide catabolic process(2.9e-06)
+1	icosanoid metabolic process
+1	indole-containing compound biosynthetic ...
+1	indole-containing compound catabolic pro...
+1	inflorescence meristem growth
+1	inflorescence morphogenesis(2.5e-05)
+1	innate immune response(2.8e-05)
+1	inositol phosphate biosynthetic process
+1	internal protein amino acid acetylation
+1	interspecies interaction between organis...
+1	intracellular auxin transport
+1	intracellular transport(1.3e-06)
+1	intron homing
+1	iron-sulfur cluster assembly(3.3e-06)
+1	jasmonic acid mediated signaling pathway(8.4e-05)
+1	L-amino acid import
+1	lateral root formation(1e-05)
+1	lateral root morphogenesis
+1	leaf morphogenesis(8e-05)
+1	leaf shaping(1.1e-05)
+1	Lewis a epitope biosynthetic process
+1	lignin biosynthetic process(3.1e-07)
+1	lignin metabolic process
+1	long-day photoperiodism
+1	L-serine biosynthetic process
+1	L-serine metabolic process(4e-05)
+1	macromolecule biosynthetic process
+1	macromolecule methylation
+1	maintenance of location in cell
+1	maintenance of meristem identity(1.7e-05)
+1	male gamete generation
+1	manganese ion transport
+1	meiosis I
+1	meiotic cell cycle
+1	meiotic chromosome separation
+1	meiotic cytokinesis
+1	melatonin biosynthetic process(7e-06)
+1	meristem growth
+1	methionine metabolic process(1.8e-05)
+1	methylation
+1	methylglyoxal catabolic process
+1	microsporocyte differentiation(4.6e-05)
+1	microtubule-based process
+1	mitochondrial electron transport, cytoch...(7.3e-06)
+1	mitochondrial electron transport, ubiqui...(6.6e-07)
+1	mitochondrial fission(1.3e-05)
+1	mitochondrial fission(9.8e-05)
+1	mitochondrial RNA metabolic process
+1	mitochondrial RNA modification
+1	mitochondrion organization(3.4e-05)
+1	monoacylglycerol catabolic process
+1	mRNA catabolic process
+1	mRNA export from nucleus(8.9e-05)
+1	mucilage metabolic process(7.5e-05)
+1	ncRNA 3'-end processing
+1	ncRNA processing
+1	nectary development
+1	negative regulation of brassinosteroid m...
+1	negative regulation of cellular amide me...
+1	negative regulation of cellular componen...
+1	negative regulation of cytokinin-activat...
+1	negative regulation of ethylene biosynth...
+1	negative regulation of immune system pro...
+1	negative regulation of molecular functio...
+1	negative regulation of nucleic acid-temp...
+1	negative regulation of photomorphogenesi...(3.4e-06)
+1	negative regulation of protein kinase ac...
+1	negative regulation of protein phosphory...
+1	negative regulation of proteolysis
+1	negative regulation of response to water...(1.3e-05)
+1	negative regulation of secondary cell wa...
+1	negative regulation of signal transducti...
+1	negative regulation of transport
+1	nonphotochemical quenching(1.1e-07)
+1	nuclear DNA replication
+1	nuclear envelope organization(8.4e-05)
+1	nuclear export
+1	nuclear migration along microfilament(2.7e-05)
+1	nucleobase-containing compound catabolic...
+1	nucleobase transport(5.7e-05)
+1	nucleoside diphosphate metabolic process
+1	nucleoside metabolic process
+1	nucleoside monophosphate biosynthetic pr...
+1	nucleosome assembly(2.9e-05)
+1	nucleotide biosynthetic process
+1	nucleotide-sugar biosynthetic process
+1	nucleotide-sugar biosynthetic process(3.3e-05)
+1	organelle localization
+1	organic anion transport
+1	organic hydroxy compound catabolic proce...
+1	oxylipin metabolic process
+1	para-aminobenzoic acid metabolic process(6.3e-06)
+1	pattern recognition receptor signaling p...
+1	pattern specification process
+1	pectin catabolic process(1.4e-12)
+1	peptidyl-cysteine modification
+1	peptidyl-cysteine S-nitrosylation(8.7e-06)
+1	peptidyl-serine modification
+1	phosphatidylcholine metabolic process(4.2e-06)
+1	phospholipid metabolic process
+1	photomorphogenesis(9.9e-05)
+1	photorespiration(4e-05)
+1	photosynthesis(1e-05)
+1	photosynthesis(2.5e-24)
+1	photosynthesis, light harvesting
+1	photosynthesis, light harvesting(4.9e-08)
+1	photosynthesis, light harvesting in phot...(2.3e-06)
+1	photosynthesis, light harvesting in phot...(3.6e-05)
+1	photosynthesis, light harvesting in phot...(6.1e-06)
+1	photosynthetic electron transport chain(5e-05)
+1	photosynthetic electron transport in pho...(1.1e-05)
+1	photosynthetic electron transport in pho...(1.5e-07)
+1	photosynthetic electron transport in pho...(5.2e-05)
+1	pigment accumulation
+1	pigment catabolic process
+1	plant ovule development(3.8e-05)
+1	plant-type cell wall biogenesis(2.5e-06)
+1	plant-type cell wall loosening(2.2e-06)
+1	plant-type cell wall loosening(7.1e-05)
+1	plant-type cell wall loosening(7.2e-08)
+1	plant-type cell wall modification involv...(1.3e-06)
+1	plant-type cell wall modification involv...(2e-08)
+1	plant-type cell wall modification involv...(4.9e-05)
+1	plant-type cell wall modification involv...(8.3e-05)
+1	plant-type cell wall organization
+1	plant-type cell wall organization or bio...(5.5e-06)
+1	plastid fission
+1	plastid membrane organization
+1	pollen germination(7.9e-05)
+1	pollen tube development
+1	polyamine biosynthetic process
+1	porphyrin-containing compound catabolic ...
+1	positive gravitropism(8.2e-06)
+1	positive regulation by symbiont of host ...
+1	positive regulation of cell communicatio...
+1	positive regulation of cellular cataboli...
+1	positive regulation of chromatin organiz...
+1	positive regulation of histone methylati...
+1	positive regulation of hydrogen peroxide...(3.5e-05)
+1	positive regulation of intracellular pro...
+1	positive regulation of ion transmembrane...
+1	positive regulation of isoprenoid metabo...
+1	positive regulation of lipid biosyntheti...
+1	positive regulation of protein catabolic...
+1	positive regulation of protein import
+1	positive regulation of secondary metabol...
+1	positive regulation of transcription fro...(2.8e-05)
+1	positive regulation of transcription fro...(5.1e-07)
+1	positive regulation of transcription fro...(6e-05)
+1	positive regulation of transmembrane tra...
+1	positive regulation of ubiquitin-protein...
+1	post-embryonic root development
+1	posttranscriptional gene silencing by RN...(9.1e-05)
+1	potassium ion transmembrane transport(6e-05)
+1	potassium ion transport(8.4e-05)
+1	pre-mRNA cleavage required for polyadeny...
+1	production of siRNA involved in RNA inte...(3.1e-05)
+1	proline biosynthetic process(9e-07)
+1	proline catabolic process to glutamate
+1	proteasome assembly(4e-07)
+1	protein autophosphorylation(8.1e-05)
+1	protein-chromophore linkage(1.2e-05)
+1	protein-chromophore linkage(1.7e-06)
+1	protein-chromophore linkage(1.7e-07)
+1	protein-chromophore linkage(6e-05)
+1	protein-cofactor linkage
+1	protein deneddylation(2.6e-05)
+1	protein folding(1.8e-05)
+1	protein folding(1e-05)
+1	protein glycosylation(7.6e-05)
+1	protein import
+1	protein lipidation
+1	protein localization involved in auxin p...
+1	protein localization to nucleus
+1	protein localization to organelle
+1	protein maturation
+1	protein modification by small protein re...
+1	protein N-linked glycosylation via aspar...
+1	protein peptidyl-prolyl isomerization(7.6e-06)
+1	protein prenylation
+1	protein secretion(2.5e-06)
+1	protein targeting
+1	protein targeting to chloroplast(1.2e-05)
+1	protein targeting to mitochondrion
+1	protein targeting to peroxisome
+1	protein-tetrapyrrole linkage
+1	protein transport(2e-07)
+1	pseudouridine synthesis
+1	purine-containing compound catabolic pro...
+1	purine-containing compound transmembrane...
+1	purine nucleoside bisphosphate metabolic...
+1	purine nucleotide transport
+1	purine ribonucleoside salvage(1.3e-05)
+1	purine ribonucleotide metabolic process
+1	pyrimidine-containing compound salvage
+1	pyrimidine nucleoside monophosphate bios...
+1	pyrimidine ribonucleoside catabolic proc...
+1	pyrimidine ribonucleoside monophosphate ...
+1	raffinose catabolic process
+1	Ras protein signal transduction
+1	reactive oxygen species biosynthetic pro...
+1	recombinational repair
+1	red, far-red light phototransduction(1.2e-05)
+1	reductive pentose-phosphate cycle(9.3e-06)
+1	regulation of abscisic acid-activated si...
+1	regulation of anion transport(3.4e-05)
+1	regulation of binding
+1	regulation of catabolic process
+1	regulation of cell cycle G2/M phase tran...
+1	regulation of cell fate specification
+1	regulation of cell growth
+1	regulation of cell size(3.2e-05)
+1	regulation of cellular carbohydrate meta...
+1	regulation of cellular macromolecule bio...
+1	regulation of chromosome segregation
+1	regulation of coenzyme metabolic process
+1	regulation of cytoskeleton organization
+1	regulation of defense response to bacter...
+1	regulation of defense response to insect
+1	regulation of defense response to oomyce...
+1	regulation of endodermal cell differenti...
+1	regulation of gene expression
+1	regulation of gibberellic acid mediated ...
+1	regulation of glycolytic process
+1	regulation of histone acetylation
+1	regulation of histone H3-K27 methylation
+1	regulation of homeostatic process
+1	regulation of innate immune response
+1	regulation of ion transport
+1	regulation of MAP kinase activity
+1	regulation of meristem development
+1	regulation of microtubule-based process
+1	regulation of oxidoreductase activity
+1	regulation of pH(2.5e-05)
+1	regulation of phosphorylation of RNA pol...
+1	regulation of photosynthesis, light reac...
+1	regulation of production of small RNA in...
+1	regulation of proteasomal protein catabo...
+1	regulation of protein transport
+1	regulation of response to nutrient level...
+1	regulation of RNA stability
+1	regulation of secondary metabolite biosy...
+1	regulation of signal transduction
+1	regulation of stomatal complex patternin...
+1	regulation of sulfur metabolic process
+1	regulation of tetrapyrrole biosynthetic ...
+1	regulation of translational initiation(1.2e-05)
+1	regulation of vacuole organization
+1	response to acid chemical
+1	response to blue light(3.9e-05)
+1	response to cadmium ion(2.7e-05)
+1	response to cadmium ion(5e-06)
+1	response to chitin(8.8e-05)
+1	response to chitin(9.1e-05)
+1	response to cytokinin(1.9e-05)
+1	response to desiccation(6.6e-06)
+1	response to endoplasmic reticulum stress(7.1e-05)
+1	response to far red light(3.5e-05)
+1	response to growth hormone(6.4e-06)
+1	response to high light intensity(2.1e-08)
+1	response to hydrogen peroxide(1.1e-05)
+1	response to light intensity
+1	response to light intensity(1.2e-05)
+1	response to low light intensity stimulus(7.5e-06)
+1	response to nutrient
+1	response to organonitrogen compound
+1	response to ozone(8.9e-05)
+1	response to temperature stimulus(1.7e-05)
+1	response to temperature stimulus(3.4e-05)
+1	response to UV
+1	response to water
+1	response to xenobiotic stimulus
+1	response to zinc ion(3.8e-05)
+1	ribonucleoprotein complex biogenesis(3e-29)
+1	ribonucleoprotein complex export from nu...
+1	ribonucleoside bisphosphate metabolic pr...
+1	ribosomal large subunit assembly(1.9e-05)
+1	ribosomal large subunit assembly(8.7e-06)
+1	ribosomal small subunit assembly(8.7e-06)
+1	ribosomal small subunit biogenesis
+1	RNA capping
+1	RNA methylation(1.3e-05)
+1	RNA polymerase II transcriptional preini...
+1	RNA processing
+1	RNA processing(1.3e-07)
+1	RNA processing(6.4e-07)
+1	RNA splicing, via transesterification re...
+1	RNA splicing, via transesterification re...(4.1e-06)
+1	RNA surveillance
+1	rRNA-containing ribonucleoprotein comple...
+1	rRNA processing(5.5e-05)
+1	rRNA transcription
+1	S-adenosylmethioninamine biosynthetic pr...
+1	secondary alcohol biosynthetic process
+1	secondary metabolic process
+1	seed maturation(1.8e-07)
+1	sesquiterpenoid metabolic process
+1	shoot system morphogenesis
+1	short-chain fatty acid metabolic process(9.4e-05)
+1	short-day photoperiodism, flowering(5.9e-05)
+1	single-organism membrane fusion
+1	single-organism membrane organization
+1	sister chromatid segregation
+1	skotomorphogenesis
+1	snoRNA processing
+1	snRNA metabolic process
+1	sphingolipid biosynthetic process(7.8e-06)
+1	spindle organization
+1	spliceosomal complex assembly(8.6e-05)
+1	SRP-dependent cotranslational protein ta...
+1	stabilization of membrane potential
+1	stamen development
+1	stamen formation
+1	stem cell differentiation
+1	steroid metabolic process
+1	stomatal complex development
+1	stomatal complex morphogenesis(1.9e-07)
+1	stomatal complex morphogenesis(9.9e-06)
+1	stomatal movement
+1	sucrose catabolic process(1.8e-05)
+1	sulfur compound catabolic process
+1	terpenoid biosynthetic process
+1	terpenoid metabolic process
+1	tetrahydrofolate interconversion(2.6e-05)
+1	tetrahydrofolate metabolic process
+1	tetrapyrrole biosynthetic process
+1	tracheary element differentiation
+1	transcription from RNA polymerase II pro...(6e-05)
+1	translation(1e-30)
+1	translational initiation(5.1e-05)
+1	transmembrane transport
+1	triglyceride catabolic process(2.8e-07)
+1	tRNA aminoacylation for protein translat...(5e-05)
+1	tRNA aminoacylation for protein translat...(8.3e-05)
+1	tRNA wobble base modification
+1	tryptophan catabolic process
+1	ubiquitin-dependent ERAD pathway(7e-05)
+1	ubiquitin-dependent protein catabolic pr...(9.1e-05)
+1	vesicle-mediated transport(2.3e-06)
+1	vesicle organization
+1	vitamin E biosynthetic process(7.7e-05)
+1	water homeostasis
+1	xenobiotic metabolic process
+1	xylem and phloem pattern formation(4.6e-05)
+1	zinc II ion transport
+1	zinc ion homeostasis
+1	zygote asymmetric cell division

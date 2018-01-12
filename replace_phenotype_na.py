@@ -1,10 +1,12 @@
 import sys
+import os
 
 p_d={}
 
-for l in open(sys.argv[1]):
-    l_arr=l.rstrip().split("\t")
-    p_d[l_arr[0]]=l_arr[5]
+if(os.path.exists(sys.argv[1])):
+    for l in open(sys.argv[1]):
+        l_arr=l.rstrip().split("\t")
+        p_d[l_arr[0]]=l_arr[5]
 
 for l in open(sys.argv[2]):
     l_arr=l.rstrip().split("\t")

@@ -191,8 +191,9 @@ then
 		python replace_01.py $outdir/PI.scores.cod.both.bayes.na.na.na > $outdir/PI.scores.cod.both.bayes.na.yn
 		rm $outdir/PI.scores.cod.both.bayes.na $outdir/PI.scores.cod.both.bayes.na.na $outdir/PI.scores.cod.both.bayes.na.na.na
 
-		echo "Running classifer with all features... $feats"
+		echo "Running classifer with features... $feats"
         	Rscript --vanilla bayes.classifier.cod.R $outdir $feats
+		echo "Running classifer control - scrambled lables with features... $feats"
 		Rscript --vanilla bayes.classifier.cod.scram.R $outdir $feats
 
 		let COUNTER-=1
@@ -241,8 +242,9 @@ then
         	python replace_01.py $outdir/PI.scores.nc.both.bayes.na.na.na > $outdir/PI.scores.nc.both.bayes.na.yn
 		rm $outdir/PI.scores.nc.both.bayes.na $outdir/PI.scores.nc.both.bayes.na.na $outdir/PI.scores.nc.both.bayes.na.na.na
         
-		echo "Running classifer with all features... $feats"
+		echo "Running classifer with features... $feats"
         	Rscript --vanilla bayes.classifier.nc.R $outdir $feats
+		echo "Running classifer control - scrambled lables with features... $feats"
 		Rscript --vanilla bayes.classifier.nc.scram.R $outdir $feats
 
                 let COUNTER-=1

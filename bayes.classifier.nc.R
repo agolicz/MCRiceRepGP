@@ -52,7 +52,7 @@ tryCatch({
       roc <- data.frame(fpr=unlist(perf@x.values), tpr=unlist(perf@y.values))
       nb.auc <- append(AUC(roc$fpr, roc$tpr),nb.auc)
       roc$fold <- paste("Fold",as.character(i),sep=" ")
-      roc$method <- "Coding"
+      roc$method <- "Non-Coding"
       pdfc <- rbind(pdfc,roc)
     }
   sim.res <- data.frame()

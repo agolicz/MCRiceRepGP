@@ -4,7 +4,7 @@ Dependencies:
 * Linux operating system
 * python v2.7.5 or greater
 * numpy, tested on v1.11.2
-* R v3.4.0 or later
+* R v3.4.0 or greater
 * e1071, tested on v1.6-8
 * caret, tested on v6.0-76
 * ROCR, tested on v1.0-7

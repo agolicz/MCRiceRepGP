@@ -4,7 +4,7 @@
 # This script implements MCGPlannotator using command line.                      #
 # ScriptName: runMCGPlannotator.sh                                               #
 # Written by Agnieszka A. Golicz (agnieszka.golicz@unimelb.edu.au)               #
-# Last modified date: 08/01/2018                                                 #
+# Last modified date: 11/01/2018                                                 #
 # Note:                                                                          #
 #       1. Please execute the this script in the directory where                 #
 #	all the other scripts are found or modify your path accordingly          #
@@ -19,13 +19,13 @@
 
 #These values need to be provided in order to run the pipeline.
 #Sample files can be downloaded from: https://osf.io/78axs/.
-#Sample files can be repalced with any files conformign to the format.
-#If you haave any probelms please email agnieszka.golicz#gmail.com with the error message.
+#Sample files can be replaced with any files conforming to the format.
+#If you have any problems please email agnieszka.golicz@unimelb.edu.au with the error message.
 #I will do my best to help.
 
 #File with expression values, provided as FPKM or TPM or similar, 
 #the values need to be log transformed and no negative values
-#are allowed. It is recommended to used log1p().Tab separated,
+#are allowed. It is recommended to used log1p(). Tab separated,
 #first column gene IDs, followed by one column per sample. 
 #Includes header with column names.
 fpkm="logFPKM.values"

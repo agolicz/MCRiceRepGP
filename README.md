@@ -11,7 +11,14 @@ Dependencies:
 * DescTools, tested on v0.99.22
 * mltools, tested on v0.3.3
 
-To perform a test run, download the files from https://osf.io/78axs/ (MCGPlannotator.rice.files.08012018.tgz). Place the files and scrips in a single directory and run ‘bash runMCGPlannotator.sh’
+To perform a test run, download the files from https://osf.io/78axs/ (mcgplannotator.rice.files.11012018.tgz). 
+Place the files and scripts in a single directory and run ‘bash runMCGPlannotator.sh’
+
+1. git clone https://github.com/agolicz/MCGPlannotator.git
+2. Move mcgplannotator.rice.files.11012018.tgz into ./MCGPlannotator
+3. tar -xvzf mcgplannotator.rice.files.11012018.tgz
+4. bash runMCGPlannotator.sh
+
 Default setting can be changed by modifying values within the SETTINGS section of runMCGPlannotator.sh
 Alternatively, you may want to try the web application: http://mcgplannotator.com/rice
 

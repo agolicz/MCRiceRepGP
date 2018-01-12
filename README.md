@@ -19,7 +19,7 @@ Place the files and scripts in a single directory and run ‘bash runMCGPlannota
 3. tar -xvzf mcgplannotator.rice.files.11012018.tgz
 4. bash runMCGPlannotator.sh
 
-Default setting can be changed by modifying values within the SETTINGS section of runMCGPlannotator.sh
+Default settings can be changed by modifying values within the SETTINGS section of runMCGPlannotator.sh
 Alternatively, you may want to try the web application: http://mcgplannotator.com/rice
 
 IMPORTANT: 

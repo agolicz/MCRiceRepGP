@@ -84,7 +84,7 @@ param_vals_noncoding="0.6,0.4,0.3,0.2,0.1"
 #Choose if you want to run in coding or non-coding mode: either "coding" or "non-coding". 
 #Non-coding genes have to start with prefix "NC_".
 #If you want results for both, you will need to run the script twice.
-mode="non-coding"
+mode="coding"
 
 #Size of the positive training set. Please be mindful of the total number of genes.
 pset=200

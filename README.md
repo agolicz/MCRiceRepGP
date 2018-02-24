@@ -1,1 +1,1 @@
-MCRiceRepGP source code
+MCRiceRepGP (formerly MCGPlannotator) source code

@@ -1,4 +1,4 @@
-MCGPlannotator (Multi Criteria Gene Plant Annotator) performs functional annotation of genes using available multi-omics data, multi-criteria decision analysis, and machine learning.
+MCRiceRepGP performs functional annotation of genes using available multi-omics data, multi-criteria decision analysis, and machine learning.
 
 Dependencies:
 * Linux operating system
@@ -14,13 +14,13 @@ Dependencies:
 To perform a test run, download the files from https://osf.io/78axs/ (mcgplannotator.rice.files.11012018.tgz). 
 Place the files and scripts in a single directory and run ‘bash runMCGPlannotator.sh’
 
-1. git clone https://github.com/agolicz/MCGPlannotator.git
+1. git clone https://github.com/agolicz/MCRiceRepGP.git
 2. Move mcgplannotator.rice.files.11012018.tgz into ./MCGPlannotator
 3. tar -xvzf mcgplannotator.rice.files.11012018.tgz
 4. bash runMCGPlannotator.sh
 
 Default settings can be changed by modifying values within the SETTINGS section of runMCGPlannotator.sh
-Alternatively, you may want to try the web application: http://mcgplannotator.com/rice
+Alternatively, you may want to try the web application: http://mcgplannotator.com/MCRiceRepGP/
 
 IMPORTANT: 
 1. To invoke non-coding mode, IDs of non-coding genes have to start with ‘NC_’.
